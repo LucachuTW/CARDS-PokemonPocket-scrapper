@@ -1,0 +1,2824 @@
+[
+    {
+        "name": "Bulbasaur",
+        "type": "Bulbasaur",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Vine Whip",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_001_EN.webp"
+    },
+    {
+        "name": "Ivysaur",
+        "type": "Ivysaur",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Bulbasaur",
+        "attacks": "Razor Leaf",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_002_EN.webp"
+    },
+    {
+        "name": "Venusaur",
+        "type": "Venusaur",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Ivysaur",
+        "attacks": "Mega Drain",
+        "weakness": "Fire ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_003_EN.webp"
+    },
+    {
+        "name": "Venusaur ex",
+        "type": "Venusaur ex",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Ivysaur",
+        "attacks": "Razor Leaf, Giant Bloom",
+        "weakness": "Fire ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_004_EN.webp"
+    },
+    {
+        "name": "Caterpie",
+        "type": "Caterpie",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Find a",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_005_EN.webp"
+    },
+    {
+        "name": "Metapod",
+        "type": "Metapod",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Caterpie",
+        "attacks": "Bug Bite",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_006_EN.webp"
+    },
+    {
+        "name": "Butterfree",
+        "type": "Butterfree",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Metapod",
+        "attacks": "Gust 60",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_007_EN.webp"
+    },
+    {
+        "name": "Weedle",
+        "type": "Weedle",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Sting 20",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_008_EN.webp"
+    },
+    {
+        "name": "Kakuna",
+        "type": "Kakuna",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Weedle",
+        "attacks": "Bug Bite",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_009_EN.webp"
+    },
+    {
+        "name": "Beedrill",
+        "type": "Beedrill",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Kakuna",
+        "attacks": "Sharp Sting",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_010_EN.webp"
+    },
+    {
+        "name": "Oddish",
+        "type": "Oddish",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ram 20",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_011_EN.webp"
+    },
+    {
+        "name": "Gloom",
+        "type": "Gloom",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Oddish",
+        "attacks": "Drool 40",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_012_EN.webp"
+    },
+    {
+        "name": "Vileplume",
+        "type": "Vileplume",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Gloom",
+        "attacks": "Soothing Scent",
+        "weakness": "Fire ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_013_EN.webp"
+    },
+    {
+        "name": "Paras",
+        "type": "Paras",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Scratch 30",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_014_EN.webp"
+    },
+    {
+        "name": "Parasect",
+        "type": "Parasect",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Paras",
+        "attacks": "Slash 80",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_015_EN.webp"
+    },
+    {
+        "name": "Venonat",
+        "type": "Venonat",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tackle 20",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_016_EN.webp"
+    },
+    {
+        "name": "Venomoth",
+        "type": "Venomoth",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Venonat",
+        "attacks": "Poison Powder",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_017_EN.webp"
+    },
+    {
+        "name": "Bellsprout",
+        "type": "Bellsprout",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Vine Whip",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_018_EN.webp"
+    },
+    {
+        "name": "Weepinbell",
+        "type": "Weepinbell",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Bellsprout",
+        "attacks": "Razor Leaf",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_019_EN.webp"
+    },
+    {
+        "name": "Victreebel",
+        "type": "Victreebel",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Weepinbell",
+        "attacks": "Vine Whip",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_020_EN.webp"
+    },
+    {
+        "name": "Exeggcute",
+        "type": "Exeggcute",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Seed Bomb",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_021_EN.webp"
+    },
+    {
+        "name": "Exeggutor",
+        "type": "Exeggutor",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Exeggcute",
+        "attacks": "Stomp 30+",
+        "weakness": "Fire ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_022_EN.webp"
+    },
+    {
+        "name": "Exeggutor ex",
+        "type": "Exeggutor ex",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Exeggcute",
+        "attacks": "Tropical Swing",
+        "weakness": "Fire ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_023_EN.webp"
+    },
+    {
+        "name": "Tangela",
+        "type": "Tangela",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Absorb 40",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_024_EN.webp"
+    },
+    {
+        "name": "Scyther",
+        "type": "Scyther",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Sharp Scythe",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_025_EN.webp"
+    },
+    {
+        "name": "Pinsir",
+        "type": "Pinsir",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Double Horn",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_026_EN.webp"
+    },
+    {
+        "name": "Cottonee",
+        "type": "Cottonee",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Attach 10",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_027_EN.webp"
+    },
+    {
+        "name": "Whimsicott",
+        "type": "Whimsicott",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Cottonee",
+        "attacks": "Rolling Tackle",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_028_EN.webp"
+    },
+    {
+        "name": "Petilil",
+        "type": "Petilil",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Blot 10",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_029_EN.webp"
+    },
+    {
+        "name": "Lilligant",
+        "type": "Lilligant",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Petilil",
+        "attacks": "Leaf Supply",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_030_EN.webp"
+    },
+    {
+        "name": "Skiddo",
+        "type": "Skiddo",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Surprise Attack",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_031_EN.webp"
+    },
+    {
+        "name": "Gogoat",
+        "type": "Gogoat",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Skiddo",
+        "attacks": "Razor Leaf",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_032_EN.webp"
+    },
+    {
+        "name": "Charmander",
+        "type": "Charmander",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ember 30",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_033_EN.webp"
+    },
+    {
+        "name": "Charmeleon",
+        "type": "Charmeleon",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Charmander",
+        "attacks": "Fire Claws",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_034_EN.webp"
+    },
+    {
+        "name": "Charizard",
+        "type": "Charizard",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Charmeleon",
+        "attacks": "Fire Spin",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_035_EN.webp"
+    },
+    {
+        "name": "Charizard ex",
+        "type": "Charizard ex",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Charmeleon",
+        "attacks": "Slash 60, Crimson Storm",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_036_EN.webp"
+    },
+    {
+        "name": "Vulpix",
+        "type": "Vulpix",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tail Whip",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_037_EN.webp"
+    },
+    {
+        "name": "Ninetales",
+        "type": "Ninetales",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Vulpix",
+        "attacks": "Flamethrower 90",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_038_EN.webp"
+    },
+    {
+        "name": "Growlithe",
+        "type": "Growlithe",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Bite 20",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_039_EN.webp"
+    },
+    {
+        "name": "Arcanine",
+        "type": "Arcanine",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Growlithe",
+        "attacks": "Heat Tackle",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp"
+    },
+    {
+        "name": "Arcanine ex",
+        "type": "Arcanine ex",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Growlithe",
+        "attacks": "Inferno Onrush",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_041_EN.webp"
+    },
+    {
+        "name": "Ponyta",
+        "type": "Ponyta",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Flare 20",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_042_EN.webp"
+    },
+    {
+        "name": "Rapidash",
+        "type": "Rapidash",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Ponyta",
+        "attacks": "Fire Mane",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_043_EN.webp"
+    },
+    {
+        "name": "Magmar",
+        "type": "Magmar",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Magma Punch",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_044_EN.webp"
+    },
+    {
+        "name": "Flareon",
+        "type": "Flareon",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Eevee",
+        "attacks": "Flamethrower 110",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_045_EN.webp"
+    },
+    {
+        "name": "Moltres",
+        "type": "Moltres",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Sky Attack",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_046_EN.webp"
+    },
+    {
+        "name": "Moltres ex",
+        "type": "Moltres ex",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Inferno Dance, Heat Blast",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_047_EN.webp"
+    },
+    {
+        "name": "Heatmor",
+        "type": "Heatmor",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Combustion 30",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_048_EN.webp"
+    },
+    {
+        "name": "Salandit",
+        "type": "Salandit",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Scratch 20",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_049_EN.webp"
+    },
+    {
+        "name": "Salazzle",
+        "type": "Salazzle",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Salandit",
+        "attacks": "Fire Claws",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_050_EN.webp"
+    },
+    {
+        "name": "Sizzlipede",
+        "type": "Sizzlipede",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Gnaw 10",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_051_EN.webp"
+    },
+    {
+        "name": "Centiskorch",
+        "type": "Centiskorch",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Sizzlipede",
+        "attacks": "Fire Blast",
+        "weakness": "Water ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_052_EN.webp"
+    },
+    {
+        "name": "Squirtle",
+        "type": "Squirtle",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Water Gun",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_053_EN.webp"
+    },
+    {
+        "name": "Wartortle",
+        "type": "Wartortle",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Squirtle",
+        "attacks": "Wave Splash",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_054_EN.webp"
+    },
+    {
+        "name": "Blastoise",
+        "type": "Blastoise",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Wartortle",
+        "attacks": "Hydro Pump",
+        "weakness": "Lightning ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_055_EN.webp"
+    },
+    {
+        "name": "Blastoise ex",
+        "type": "Blastoise ex",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Wartortle",
+        "attacks": "Surf 40, Hydro Bazooka",
+        "weakness": "Lightning ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_056_EN.webp"
+    },
+    {
+        "name": "Psyduck",
+        "type": "Psyduck",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Headache 10",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_057_EN.webp"
+    },
+    {
+        "name": "Golduck",
+        "type": "Golduck",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Psyduck",
+        "attacks": "Aqua Edge",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_058_EN.webp"
+    },
+    {
+        "name": "Poliwag",
+        "type": "Poliwag",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Razor Fin",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_059_EN.webp"
+    },
+    {
+        "name": "Poliwhirl",
+        "type": "Poliwhirl",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Poliwag",
+        "attacks": "Knuckle Punch",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_060_EN.webp"
+    },
+    {
+        "name": "Poliwrath",
+        "type": "Poliwrath",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Poliwhirl",
+        "attacks": "Mega Punch",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_061_EN.webp"
+    },
+    {
+        "name": "Tentacool",
+        "type": "Tentacool",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Gentle Slap",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_062_EN.webp"
+    },
+    {
+        "name": "Tentacruel",
+        "type": "Tentacruel",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Tentacool",
+        "attacks": "Poison Tentacles",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_063_EN.webp"
+    },
+    {
+        "name": "Seel",
+        "type": "Seel",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Headbutt 30",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_064_EN.webp"
+    },
+    {
+        "name": "Dewgong",
+        "type": "Dewgong",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Seel",
+        "attacks": "Surf 90",
+        "weakness": "Lightning ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp"
+    },
+    {
+        "name": "Shellder",
+        "type": "Shellder",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tongue Slap",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_066_EN.webp"
+    },
+    {
+        "name": "Cloyster",
+        "type": "Cloyster",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Shellder",
+        "attacks": "Surf 70",
+        "weakness": "Lightning ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_067_EN.webp"
+    },
+    {
+        "name": "Krabby",
+        "type": "Krabby",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Vise Grip",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_068_EN.webp"
+    },
+    {
+        "name": "Kingler",
+        "type": "Kingler",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Krabby",
+        "attacks": "KO Crab",
+        "weakness": "Lightning ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_069_EN.webp"
+    },
+    {
+        "name": "Horsea",
+        "type": "Horsea",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Water Gun",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_070_EN.webp"
+    },
+    {
+        "name": "Seadra",
+        "type": "Seadra",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Horsea",
+        "attacks": "Water Arrow",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_071_EN.webp"
+    },
+    {
+        "name": "Goldeen",
+        "type": "Goldeen",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Flop 10",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_072_EN.webp"
+    },
+    {
+        "name": "Seaking",
+        "type": "Seaking",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Goldeen",
+        "attacks": "Horn Hazard",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_073_EN.webp"
+    },
+    {
+        "name": "Staryu",
+        "type": "Staryu",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Smack 20",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_074_EN.webp"
+    },
+    {
+        "name": "Starmie",
+        "type": "Starmie",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Staryu",
+        "attacks": "Wave Splash",
+        "weakness": "Lightning ",
+        "retreat": "0",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_075_EN.webp"
+    },
+    {
+        "name": "Starmie ex",
+        "type": "Starmie ex",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Staryu",
+        "attacks": "Hydro Splash",
+        "weakness": "Lightning ",
+        "retreat": "0",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_076_EN.webp"
+    },
+    {
+        "name": "Magikarp",
+        "type": "Magikarp",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Splash 10",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_077_EN.webp"
+    },
+    {
+        "name": "Gyarados",
+        "type": "Gyarados",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Magikarp",
+        "attacks": "Hyper Beam",
+        "weakness": "Lightning ",
+        "retreat": "4",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_078_EN.webp"
+    },
+    {
+        "name": "Lapras",
+        "type": "Lapras",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Hydro Pump",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_079_EN.webp"
+    },
+    {
+        "name": "Vaporeon",
+        "type": "Vaporeon",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Eevee",
+        "attacks": "Bubble Drain",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_080_EN.webp"
+    },
+    {
+        "name": "Omanyte",
+        "type": "Omanyte",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Helix Fossil",
+        "attacks": "Water Gun",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_081_EN.webp"
+    },
+    {
+        "name": "Omastar",
+        "type": "Omastar",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Omanyte",
+        "attacks": "Ancient Whirlpool",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_082_EN.webp"
+    },
+    {
+        "name": "Articuno",
+        "type": "Articuno",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ice Beam",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_083_EN.webp"
+    },
+    {
+        "name": "Articuno ex",
+        "type": "Articuno ex",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ice Wing, Blizzard 80",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_084_EN.webp"
+    },
+    {
+        "name": "Ducklett",
+        "type": "Ducklett",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Flap 30",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_085_EN.webp"
+    },
+    {
+        "name": "Swanna",
+        "type": "Swanna",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Ducklett",
+        "attacks": "Wing Attack",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_086_EN.webp"
+    },
+    {
+        "name": "Froakie",
+        "type": "Froakie",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Flop 10",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_087_EN.webp"
+    },
+    {
+        "name": "Frogadier",
+        "type": "Frogadier",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Froakie",
+        "attacks": "Water Drip",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_088_EN.webp"
+    },
+    {
+        "name": "Greninja",
+        "type": "Greninja",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Frogadier",
+        "attacks": "Mist Slash",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_089_EN.webp"
+    },
+    {
+        "name": "Pyukumuku",
+        "type": "Pyukumuku",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Rain Splash",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_090_EN.webp"
+    },
+    {
+        "name": "Bruxish",
+        "type": "Bruxish",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Second Strike",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp"
+    },
+    {
+        "name": "Snom",
+        "type": "Snom",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ram 10",
+        "weakness": "Metal ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_092_EN.webp"
+    },
+    {
+        "name": "Frosmoth",
+        "type": "Frosmoth",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Snom",
+        "attacks": "Powder Snow",
+        "weakness": "Metal ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_093_EN.webp"
+    },
+    {
+        "name": "Pikachu",
+        "type": "Pikachu",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Gnaw 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_094_EN.webp"
+    },
+    {
+        "name": "Raichu",
+        "type": "Raichu",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Pikachu",
+        "attacks": "Thunderbolt 140",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_095_EN.webp"
+    },
+    {
+        "name": "Pikachu ex",
+        "type": "Pikachu ex",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Circle Circuit",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_096_EN.webp"
+    },
+    {
+        "name": "Magnemite",
+        "type": "Magnemite",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Lightning Ball",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_097_EN.webp"
+    },
+    {
+        "name": "Magneton",
+        "type": "Magneton",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Magnemite",
+        "attacks": "Spinning Attack",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp"
+    },
+    {
+        "name": "Voltorb",
+        "type": "Voltorb",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tackle 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_099_EN.webp"
+    },
+    {
+        "name": "Electrode",
+        "type": "Electrode",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Voltorb",
+        "attacks": "Electro Ball",
+        "weakness": "Fighting ",
+        "retreat": "0",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_100_EN.webp"
+    },
+    {
+        "name": "Electabuzz",
+        "type": "Electabuzz",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Thunder Punch",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_101_EN.webp"
+    },
+    {
+        "name": "Jolteon",
+        "type": "Jolteon",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Eevee",
+        "attacks": "Pin Missile",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_102_EN.webp"
+    },
+    {
+        "name": "Zapdos",
+        "type": "Zapdos",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Raging Thunder",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_103_EN.webp"
+    },
+    {
+        "name": "Zapdos ex",
+        "type": "Zapdos ex",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Peck 20, Thundering Hurricane",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_104_EN.webp"
+    },
+    {
+        "name": "Blitzle",
+        "type": "Blitzle",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Zap Kick",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_105_EN.webp"
+    },
+    {
+        "name": "Zebstrika",
+        "type": "Zebstrika",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Blitzle",
+        "attacks": "Thunder Spear",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_106_EN.webp"
+    },
+    {
+        "name": "Tynamo",
+        "type": "Tynamo",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tiny Charge",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_107_EN.webp"
+    },
+    {
+        "name": "Eelektrik",
+        "type": "Eelektrik",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Tynamo",
+        "attacks": "Head Bolt",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_108_EN.webp"
+    },
+    {
+        "name": "Eelektross",
+        "type": "Eelektross",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Eelektrik",
+        "attacks": "Thunder Fang",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_109_EN.webp"
+    },
+    {
+        "name": "Helioptile",
+        "type": "Helioptile",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tail Whap",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_110_EN.webp"
+    },
+    {
+        "name": "Heliolisk",
+        "type": "Heliolisk",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Helioptile",
+        "attacks": "Quick Attack",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_111_EN.webp"
+    },
+    {
+        "name": "Pincurchin",
+        "type": "Pincurchin",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Thunder Shock",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_112_EN.webp"
+    },
+    {
+        "name": "Clefairy",
+        "type": "Clefairy",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Slap 20",
+        "weakness": "Metal ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_113_EN.webp"
+    },
+    {
+        "name": "Clefable",
+        "type": "Clefable",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Clefairy",
+        "attacks": "Magical Shot",
+        "weakness": "Metal ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_114_EN.webp"
+    },
+    {
+        "name": "Abra",
+        "type": "Abra",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_115_EN.webp"
+    },
+    {
+        "name": "Kadabra",
+        "type": "Kadabra",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Abra",
+        "attacks": "Super Psy",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_116_EN.webp"
+    },
+    {
+        "name": "Alakazam",
+        "type": "Alakazam",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Kadabra",
+        "attacks": "Psychic 60+",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_117_EN.webp"
+    },
+    {
+        "name": "Slowpoke",
+        "type": "Slowpoke",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tail Whap",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_118_EN.webp"
+    },
+    {
+        "name": "Slowbro",
+        "type": "Slowbro",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Slowpoke",
+        "attacks": "Super Psy",
+        "weakness": "Darkness ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_119_EN.webp"
+    },
+    {
+        "name": "Gastly",
+        "type": "Gastly",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Suffocating Gas",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_120_EN.webp"
+    },
+    {
+        "name": "Haunter",
+        "type": "Haunter",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Gastly",
+        "attacks": "Will-O-Wisp 30",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_121_EN.webp"
+    },
+    {
+        "name": "Gengar",
+        "type": "Gengar",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Haunter",
+        "attacks": "Bother 50",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_122_EN.webp"
+    },
+    {
+        "name": "Gengar ex",
+        "type": "Gengar ex",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Haunter",
+        "attacks": "Spooky Shot",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_123_EN.webp"
+    },
+    {
+        "name": "Drowzee",
+        "type": "Drowzee",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Mumble 30",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_124_EN.webp"
+    },
+    {
+        "name": "Hypno",
+        "type": "Hypno",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Drowzee",
+        "attacks": "Psypunch 50",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp"
+    },
+    {
+        "name": "Mr. Mime",
+        "type": "Mr. Mime",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Barrier Attack",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_126_EN.webp"
+    },
+    {
+        "name": "Jynx",
+        "type": "Jynx",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Psychic 30+",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_127_EN.webp"
+    },
+    {
+        "name": "Mewtwo",
+        "type": "Mewtwo",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Power Blast",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_128_EN.webp"
+    },
+    {
+        "name": "Mewtwo ex",
+        "type": "Mewtwo ex",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Psychic Sphere, Psydrive 150",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_129_EN.webp"
+    },
+    {
+        "name": "Ralts",
+        "type": "Ralts",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ram 10",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_130_EN.webp"
+    },
+    {
+        "name": "Kirlia",
+        "type": "Kirlia",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Ralts",
+        "attacks": "Smack 30",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_131_EN.webp"
+    },
+    {
+        "name": "Gardevoir",
+        "type": "Gardevoir",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Kirlia",
+        "attacks": "Psyshot 60",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_132_EN.webp"
+    },
+    {
+        "name": "Woobat",
+        "type": "Woobat",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Gnaw 10",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_133_EN.webp"
+    },
+    {
+        "name": "Swoobat",
+        "type": "Swoobat",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Woobat",
+        "attacks": "Heart Stamp",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp"
+    },
+    {
+        "name": "Golett",
+        "type": "Golett",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Mega Punch",
+        "weakness": "Darkness ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_135_EN.webp"
+    },
+    {
+        "name": "Golurk",
+        "type": "Golurk",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Golett",
+        "attacks": "Double Lariat",
+        "weakness": "Darkness ",
+        "retreat": "4",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_136_EN.webp"
+    },
+    {
+        "name": "Sandshrew",
+        "type": "Sandshrew",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Scratch 10",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_137_EN.webp"
+    },
+    {
+        "name": "Sandslash",
+        "type": "Sandslash",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Sandshrew",
+        "attacks": "Slash 70",
+        "weakness": "Grass ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_138_EN.webp"
+    },
+    {
+        "name": "Diglett",
+        "type": "Diglett",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Mud-Slap 20",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_139_EN.webp"
+    },
+    {
+        "name": "Dugtrio",
+        "type": "Dugtrio",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Diglett",
+        "attacks": "Dig 40",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_140_EN.webp"
+    },
+    {
+        "name": "Mankey",
+        "type": "Mankey",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Low Kick",
+        "weakness": "Psychic ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_141_EN.webp"
+    },
+    {
+        "name": "Primeape",
+        "type": "Primeape",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Mankey",
+        "attacks": "Fight Back",
+        "weakness": "Psychic ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_142_EN.webp"
+    },
+    {
+        "name": "Machop",
+        "type": "Machop",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Knuckle Punch",
+        "weakness": "Psychic ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_143_EN.webp"
+    },
+    {
+        "name": "Machoke",
+        "type": "Machoke",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Machop",
+        "attacks": "Strength 50",
+        "weakness": "Psychic ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_144_EN.webp"
+    },
+    {
+        "name": "Machamp",
+        "type": "Machamp",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Machoke",
+        "attacks": "Seismic Toss",
+        "weakness": "Psychic ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp"
+    },
+    {
+        "name": "Machamp ex",
+        "type": "Machamp ex",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Machoke",
+        "attacks": "Mega Punch",
+        "weakness": "Psychic ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_146_EN.webp"
+    },
+    {
+        "name": "Geodude",
+        "type": "Geodude",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tackle 20",
+        "weakness": "Grass ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_147_EN.webp"
+    },
+    {
+        "name": "Graveler",
+        "type": "Graveler",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Geodude",
+        "attacks": "Rollout 70",
+        "weakness": "Grass ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_148_EN.webp"
+    },
+    {
+        "name": "Golem",
+        "type": "Golem",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Graveler",
+        "attacks": "Double-Edge 150",
+        "weakness": "Grass ",
+        "retreat": "4",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp"
+    },
+    {
+        "name": "Onix",
+        "type": "Onix",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Land Crush",
+        "weakness": "Grass ",
+        "retreat": "4",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_150_EN.webp"
+    },
+    {
+        "name": "Cubone",
+        "type": "Cubone",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_151_EN.webp"
+    },
+    {
+        "name": "Marowak",
+        "type": "Marowak",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Cubone",
+        "attacks": "Bone Beatdown",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_152_EN.webp"
+    },
+    {
+        "name": "Marowak ex",
+        "type": "Marowak ex",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Cubone",
+        "attacks": "Bonemerang 80x",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_153_EN.webp"
+    },
+    {
+        "name": "Hitmonlee",
+        "type": "Hitmonlee",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Stretch Kick",
+        "weakness": "Psychic ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_154_EN.webp"
+    },
+    {
+        "name": "Hitmonchan",
+        "type": "Hitmonchan",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Jab 30",
+        "weakness": "Psychic ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_155_EN.webp"
+    },
+    {
+        "name": "Rhyhorn",
+        "type": "Rhyhorn",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tackle 60",
+        "weakness": "Grass ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_156_EN.webp"
+    },
+    {
+        "name": "Rhydon",
+        "type": "Rhydon",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Rhyhorn",
+        "attacks": "Horn Drill",
+        "weakness": "Grass ",
+        "retreat": "4",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_157_EN.webp"
+    },
+    {
+        "name": "Kabuto",
+        "type": "Kabuto",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Dome Fossil",
+        "attacks": "Shell Attack",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_158_EN.webp"
+    },
+    {
+        "name": "Kabutops",
+        "type": "Kabutops",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Kabuto",
+        "attacks": "Leech Life",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_159_EN.webp"
+    },
+    {
+        "name": "Mienfoo",
+        "type": "Mienfoo",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Pound 20",
+        "weakness": "Psychic ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_160_EN.webp"
+    },
+    {
+        "name": "Mienshao",
+        "type": "Mienshao",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Mienfoo",
+        "attacks": "Spiral Kick",
+        "weakness": "Psychic ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_161_EN.webp"
+    },
+    {
+        "name": "Clobbopus",
+        "type": "Clobbopus",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Knuckle Punch",
+        "weakness": "Psychic ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_162_EN.webp"
+    },
+    {
+        "name": "Grapploct",
+        "type": "Grapploct",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Clobbopus",
+        "attacks": "Knock Back",
+        "weakness": "Psychic ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_163_EN.webp"
+    },
+    {
+        "name": "Ekans",
+        "type": "Ekans",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Bite 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_164_EN.webp"
+    },
+    {
+        "name": "Arbok",
+        "type": "Arbok",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Ekans",
+        "attacks": "Corner 60",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_165_EN.webp"
+    },
+    {
+        "name": "Nidoran♀",
+        "type": "Nidoran♀",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Call for",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_166_EN.webp"
+    },
+    {
+        "name": "Nidorina",
+        "type": "Nidorina",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Nidoran♀",
+        "attacks": "Bite 30",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_167_EN.webp"
+    },
+    {
+        "name": "Nidoqueen",
+        "type": "Nidoqueen",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Nidorina",
+        "attacks": "Lovestrike 80+",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_168_EN.webp"
+    },
+    {
+        "name": "Nidoran♂",
+        "type": "Nidoran♂",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Peck 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_169_EN.webp"
+    },
+    {
+        "name": "Nidorino",
+        "type": "Nidorino",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Nidoran♂",
+        "attacks": "Horn Attack",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_170_EN.webp"
+    },
+    {
+        "name": "Nidoking",
+        "type": "Nidoking",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Nidorino",
+        "attacks": "Poison Horn",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_171_EN.webp"
+    },
+    {
+        "name": "Zubat",
+        "type": "Zubat",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Glide 10",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_172_EN.webp"
+    },
+    {
+        "name": "Golbat",
+        "type": "Golbat",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Zubat",
+        "attacks": "Wing Attack",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_173_EN.webp"
+    },
+    {
+        "name": "Grimer",
+        "type": "Grimer",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Poison Gas",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_174_EN.webp"
+    },
+    {
+        "name": "Muk",
+        "type": "Muk",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Grimer",
+        "attacks": "Venoshock 70+",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_175_EN.webp"
+    },
+    {
+        "name": "Koffing",
+        "type": "Koffing",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Suffocating Gas",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_176_EN.webp"
+    },
+    {
+        "name": "Weezing",
+        "type": "Weezing",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Koffing",
+        "attacks": "Tackle 30",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_177_EN.webp"
+    },
+    {
+        "name": "Mawile",
+        "type": "Mawile",
+        "hp": "Metal",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Crunch 20",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_178_EN.webp"
+    },
+    {
+        "name": "Pawniard",
+        "type": "Pawniard",
+        "hp": "Metal",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Pierce 30",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_179_EN.webp"
+    },
+    {
+        "name": "Bisharp",
+        "type": "Bisharp",
+        "hp": "Metal",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Pawniard",
+        "attacks": "Metal Claw",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp"
+    },
+    {
+        "name": "Meltan",
+        "type": "Meltan",
+        "hp": "Metal",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_181_EN.webp"
+    },
+    {
+        "name": "Melmetal",
+        "type": "Melmetal",
+        "hp": "Metal",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Meltan",
+        "attacks": "Heavy Impact",
+        "weakness": "Fire ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp"
+    },
+    {
+        "name": "Dratini",
+        "type": "Dratini",
+        "hp": "Dragon",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ram 40",
+        "weakness": "none ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_183_EN.webp"
+    },
+    {
+        "name": "Dragonair",
+        "type": "Dragonair",
+        "hp": "Dragon",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Dratini",
+        "attacks": "Tail Smack",
+        "weakness": "none ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_184_EN.webp"
+    },
+    {
+        "name": "Dragonite",
+        "type": "Dragonite",
+        "hp": "Dragon",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Dragonair",
+        "attacks": "Draco Meteor",
+        "weakness": "none ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_185_EN.webp"
+    },
+    {
+        "name": "Pidgey",
+        "type": "Pidgey",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Gust 10",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_186_EN.webp"
+    },
+    {
+        "name": "Pidgeotto",
+        "type": "Pidgeotto",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Pidgey",
+        "attacks": "Gust 30",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_187_EN.webp"
+    },
+    {
+        "name": "Pidgeot",
+        "type": "Pidgeot",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Pidgeotto",
+        "attacks": "Wing Attack",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_188_EN.webp"
+    },
+    {
+        "name": "Rattata",
+        "type": "Rattata",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Gnaw 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_189_EN.webp"
+    },
+    {
+        "name": "Raticate",
+        "type": "Raticate",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Rattata",
+        "attacks": "Bite 40",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_190_EN.webp"
+    },
+    {
+        "name": "Spearow",
+        "type": "Spearow",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Peck 20",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_191_EN.webp"
+    },
+    {
+        "name": "Fearow",
+        "type": "Fearow",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Spearow",
+        "attacks": "Drill Run",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_192_EN.webp"
+    },
+    {
+        "name": "Jigglypuff",
+        "type": "Jigglypuff",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Pound 30",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_193_EN.webp"
+    },
+    {
+        "name": "Wigglytuff",
+        "type": "Wigglytuff",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Jigglypuff",
+        "attacks": "Hyper Voice",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_194_EN.webp"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "type": "Wigglytuff ex",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Jigglypuff",
+        "attacks": "Sleepy Song",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_195_EN.webp"
+    },
+    {
+        "name": "Meowth",
+        "type": "Meowth",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Pay Day",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_196_EN.webp"
+    },
+    {
+        "name": "Persian",
+        "type": "Persian",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Meowth",
+        "attacks": "Shadow Claw",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_197_EN.webp"
+    },
+    {
+        "name": "Farfetch'd",
+        "type": "Farfetch'd",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Leek Slap",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp"
+    },
+    {
+        "name": "Doduo",
+        "type": "Doduo",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Peck 20",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_199_EN.webp"
+    },
+    {
+        "name": "Dodrio",
+        "type": "Dodrio",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Doduo",
+        "attacks": "Drill Peck",
+        "weakness": "Lightning ",
+        "retreat": "0",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_200_EN.webp"
+    },
+    {
+        "name": "Lickitung",
+        "type": "Lickitung",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Continuous Lick",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_201_EN.webp"
+    },
+    {
+        "name": "Chansey",
+        "type": "Chansey",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Gentle Slap",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_202_EN.webp"
+    },
+    {
+        "name": "Kangaskhan",
+        "type": "Kangaskhan",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Dizzy Punch",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_203_EN.webp"
+    },
+    {
+        "name": "Tauros",
+        "type": "Tauros",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Horn Attack",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_204_EN.webp"
+    },
+    {
+        "name": "Ditto",
+        "type": "Ditto",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Copy Anything",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_205_EN.webp"
+    },
+    {
+        "name": "Eevee",
+        "type": "Eevee",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tackle 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_206_EN.webp"
+    },
+    {
+        "name": "Eevee",
+        "type": "Eevee",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tackle 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_207_EN.webp"
+    },
+    {
+        "name": "Eevee",
+        "type": "Eevee",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tackle 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_208_EN.webp"
+    },
+    {
+        "name": "Porygon",
+        "type": "Porygon",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Sharpen 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_209_EN.webp"
+    },
+    {
+        "name": "Aerodactyl",
+        "type": "Aerodactyl",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Old Amber",
+        "attacks": "Primal Wingbeat",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_210_EN.webp"
+    },
+    {
+        "name": "Snorlax",
+        "type": "Snorlax",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Rollout 70",
+        "weakness": "Fighting ",
+        "retreat": "4",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_211_EN.webp"
+    },
+    {
+        "name": "Minccino",
+        "type": "Minccino",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tail Smack",
+        "weakness": "none ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_212_EN.webp"
+    },
+    {
+        "name": "Cinccino",
+        "type": "Cinccino",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Minccino",
+        "attacks": "Do the",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_213_EN.webp"
+    },
+    {
+        "name": "Wooloo",
+        "type": "Wooloo",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tackle 30",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_214_EN.webp"
+    },
+    {
+        "name": "Dubwool",
+        "type": "Dubwool",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Wooloo",
+        "attacks": "Rolling Tackle",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_215_EN.webp"
+    },
+    {
+        "name": "Helix Fossil",
+        "type": "Helix Fossil",
+        "hp": "40 HP",
+        "card_type": "Trainer\n              - Item",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_216_EN.webp"
+    },
+    {
+        "name": "Dome Fossil",
+        "type": "Dome Fossil",
+        "hp": "40 HP",
+        "card_type": "Trainer\n              - Item",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_217_EN.webp"
+    },
+    {
+        "name": "Old Amber",
+        "type": "Old Amber",
+        "hp": "40 HP",
+        "card_type": "Trainer\n              - Item",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_218_EN.webp"
+    },
+    {
+        "name": "Erika",
+        "type": "Erika",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_219_EN.webp"
+    },
+    {
+        "name": "Misty",
+        "type": "Misty",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_220_EN.webp"
+    },
+    {
+        "name": "Blaine",
+        "type": "Blaine",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_221_EN.webp"
+    },
+    {
+        "name": "Koga",
+        "type": "Koga",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_222_EN.webp"
+    },
+    {
+        "name": "Giovanni",
+        "type": "Giovanni",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_223_EN.webp"
+    },
+    {
+        "name": "Brock",
+        "type": "Brock",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_224_EN.webp"
+    },
+    {
+        "name": "Sabrina",
+        "type": "Sabrina",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_225_EN.webp"
+    },
+    {
+        "name": "Lt. Surge",
+        "type": "Lt. Surge",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_226_EN.webp"
+    },
+    {
+        "name": "Bulbasaur",
+        "type": "Bulbasaur",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Vine Whip",
+        "weakness": "Fire ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_227_EN.webp"
+    },
+    {
+        "name": "Gloom",
+        "type": "Gloom",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Oddish",
+        "attacks": "Drool 40",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_228_EN.webp"
+    },
+    {
+        "name": "Pinsir",
+        "type": "Pinsir",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Double Horn",
+        "weakness": "Fire ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_229_EN.webp"
+    },
+    {
+        "name": "Charmander",
+        "type": "Charmander",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ember 30",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_230_EN.webp"
+    },
+    {
+        "name": "Rapidash",
+        "type": "Rapidash",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Ponyta",
+        "attacks": "Fire Mane",
+        "weakness": "Water ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_231_EN.webp"
+    },
+    {
+        "name": "Squirtle",
+        "type": "Squirtle",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Water Gun",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_232_EN.webp"
+    },
+    {
+        "name": "Gyarados",
+        "type": "Gyarados",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Magikarp",
+        "attacks": "Hyper Beam",
+        "weakness": "Lightning ",
+        "retreat": "4",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_233_EN.webp"
+    },
+    {
+        "name": "Lapras",
+        "type": "Lapras",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Hydro Pump",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_234_EN.webp"
+    },
+    {
+        "name": "Electrode",
+        "type": "Electrode",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Voltorb",
+        "attacks": "Electro Ball",
+        "weakness": "Fighting ",
+        "retreat": "0",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_235_EN.webp"
+    },
+    {
+        "name": "Alakazam",
+        "type": "Alakazam",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Kadabra",
+        "attacks": "Psychic 60+",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_236_EN.webp"
+    },
+    {
+        "name": "Slowpoke",
+        "type": "Slowpoke",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tail Whap",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_237_EN.webp"
+    },
+    {
+        "name": "Diglett",
+        "type": "Diglett",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Mud-Slap 20",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_238_EN.webp"
+    },
+    {
+        "name": "Cubone",
+        "type": "Cubone",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_239_EN.webp"
+    },
+    {
+        "name": "Nidoqueen",
+        "type": "Nidoqueen",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Nidorina",
+        "attacks": "Lovestrike 80+",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_240_EN.webp"
+    },
+    {
+        "name": "Nidoking",
+        "type": "Nidoking",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Nidorino",
+        "attacks": "Poison Horn",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_241_EN.webp"
+    },
+    {
+        "name": "Golbat",
+        "type": "Golbat",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Zubat",
+        "attacks": "Wing Attack",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_242_EN.webp"
+    },
+    {
+        "name": "Weezing",
+        "type": "Weezing",
+        "hp": "Darkness",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Koffing",
+        "attacks": "Tackle 30",
+        "weakness": "Fighting ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_243_EN.webp"
+    },
+    {
+        "name": "Dragonite",
+        "type": "Dragonite",
+        "hp": "Dragon",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Dragonair",
+        "attacks": "Draco Meteor",
+        "weakness": "none ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_244_EN.webp"
+    },
+    {
+        "name": "Pidgeot",
+        "type": "Pidgeot",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Pidgeotto",
+        "attacks": "Wing Attack",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_245_EN.webp"
+    },
+    {
+        "name": "Meowth",
+        "type": "Meowth",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Pay Day",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_246_EN.webp"
+    },
+    {
+        "name": "Ditto",
+        "type": "Ditto",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Copy Anything",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_247_EN.webp"
+    },
+    {
+        "name": "Eevee",
+        "type": "Eevee",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Tackle 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_248_EN.webp"
+    },
+    {
+        "name": "Porygon",
+        "type": "Porygon",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Sharpen 20",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_249_EN.webp"
+    },
+    {
+        "name": "Snorlax",
+        "type": "Snorlax",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Rollout 70",
+        "weakness": "Fighting ",
+        "retreat": "4",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_250_EN.webp"
+    },
+    {
+        "name": "Venusaur ex",
+        "type": "Venusaur ex",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Ivysaur",
+        "attacks": "Razor Leaf, Giant Bloom",
+        "weakness": "Fire ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_251_EN.webp"
+    },
+    {
+        "name": "Exeggutor ex",
+        "type": "Exeggutor ex",
+        "hp": "Grass",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Exeggcute",
+        "attacks": "Tropical Swing",
+        "weakness": "Fire ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_252_EN.webp"
+    },
+    {
+        "name": "Charizard ex",
+        "type": "Charizard ex",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Charmeleon",
+        "attacks": "Slash 60, Crimson Storm",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_253_EN.webp"
+    },
+    {
+        "name": "Arcanine ex",
+        "type": "Arcanine ex",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Growlithe",
+        "attacks": "Inferno Onrush",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_254_EN.webp"
+    },
+    {
+        "name": "Moltres ex",
+        "type": "Moltres ex",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Inferno Dance, Heat Blast",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_255_EN.webp"
+    },
+    {
+        "name": "Blastoise ex",
+        "type": "Blastoise ex",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Wartortle",
+        "attacks": "Surf 40, Hydro Bazooka",
+        "weakness": "Lightning ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_256_EN.webp"
+    },
+    {
+        "name": "Starmie ex",
+        "type": "Starmie ex",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Staryu",
+        "attacks": "Hydro Splash",
+        "weakness": "Lightning ",
+        "retreat": "0",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_257_EN.webp"
+    },
+    {
+        "name": "Articuno ex",
+        "type": "Articuno ex",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ice Wing, Blizzard 80",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_258_EN.webp"
+    },
+    {
+        "name": "Pikachu ex",
+        "type": "Pikachu ex",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Circle Circuit",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_259_EN.webp"
+    },
+    {
+        "name": "Zapdos ex",
+        "type": "Zapdos ex",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Peck 20, Thundering Hurricane",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_260_EN.webp"
+    },
+    {
+        "name": "Gengar ex",
+        "type": "Gengar ex",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Haunter",
+        "attacks": "Spooky Shot",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_261_EN.webp"
+    },
+    {
+        "name": "Mewtwo ex",
+        "type": "Mewtwo ex",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Psychic Sphere, Psydrive 150",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_262_EN.webp"
+    },
+    {
+        "name": "Machamp ex",
+        "type": "Machamp ex",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Machoke",
+        "attacks": "Mega Punch",
+        "weakness": "Psychic ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_263_EN.webp"
+    },
+    {
+        "name": "Marowak ex",
+        "type": "Marowak ex",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Cubone",
+        "attacks": "Bonemerang 80x",
+        "weakness": "Grass ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_264_EN.webp"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "type": "Wigglytuff ex",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Jigglypuff",
+        "attacks": "Sleepy Song",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_265_EN.webp"
+    },
+    {
+        "name": "Erika",
+        "type": "Erika",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_266_EN.webp"
+    },
+    {
+        "name": "Misty",
+        "type": "Misty",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_267_EN.webp"
+    },
+    {
+        "name": "Blaine",
+        "type": "Blaine",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_268_EN.webp"
+    },
+    {
+        "name": "Koga",
+        "type": "Koga",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_269_EN.webp"
+    },
+    {
+        "name": "Giovanni",
+        "type": "Giovanni",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_270_EN.webp"
+    },
+    {
+        "name": "Brock",
+        "type": "Brock",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_271_EN.webp"
+    },
+    {
+        "name": "Sabrina",
+        "type": "Sabrina",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_272_EN.webp"
+    },
+    {
+        "name": "Lt. Surge",
+        "type": "Lt. Surge",
+        "hp": "N/A",
+        "card_type": "Trainer\n              - Supporter",
+        "attacks": "",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_273_EN.webp"
+    },
+    {
+        "name": "Moltres ex",
+        "type": "Moltres ex",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Inferno Dance, Heat Blast",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_274_EN.webp"
+    },
+    {
+        "name": "Articuno ex",
+        "type": "Articuno ex",
+        "hp": "Water",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Ice Wing, Blizzard 80",
+        "weakness": "Lightning ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_275_EN.webp"
+    },
+    {
+        "name": "Zapdos ex",
+        "type": "Zapdos ex",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Peck 20, Thundering Hurricane",
+        "weakness": "Lightning ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_276_EN.webp"
+    },
+    {
+        "name": "Gengar ex",
+        "type": "Gengar ex",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Haunter",
+        "attacks": "Spooky Shot",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_277_EN.webp"
+    },
+    {
+        "name": "Machamp ex",
+        "type": "Machamp ex",
+        "hp": "Fighting",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Machoke",
+        "attacks": "Mega Punch",
+        "weakness": "Psychic ",
+        "retreat": "3",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_278_EN.webp"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "type": "Wigglytuff ex",
+        "hp": "Colorless",
+        "card_type": "Pokémon\n              - Stage 1\n            \n                                             - Evolves from\n                Jigglypuff",
+        "attacks": "Sleepy Song",
+        "weakness": "Fighting ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_279_EN.webp"
+    },
+    {
+        "name": "Charizard ex",
+        "type": "Charizard ex",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Charmeleon",
+        "attacks": "Slash 60, Crimson Storm",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_280_EN.webp"
+    },
+    {
+        "name": "Pikachu ex",
+        "type": "Pikachu ex",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Circle Circuit",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_281_EN.webp"
+    },
+    {
+        "name": "Mewtwo ex",
+        "type": "Mewtwo ex",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Psychic Sphere, Psydrive 150",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_282_EN.webp"
+    },
+    {
+        "name": "Mew",
+        "type": "Mew",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Psy Report",
+        "weakness": "Darkness ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_283_EN.webp"
+    },
+    {
+        "name": "Charizard ex",
+        "type": "Charizard ex",
+        "hp": "Fire",
+        "card_type": "Pokémon\n              - Stage 2\n            \n                                             - Evolves from\n                Charmeleon",
+        "attacks": "Slash 60, Crimson Storm",
+        "weakness": "Water ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_284_EN.webp"
+    },
+    {
+        "name": "Pikachu ex",
+        "type": "Pikachu ex",
+        "hp": "Lightning",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Circle Circuit",
+        "weakness": "Fighting ",
+        "retreat": "1",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_285_EN.webp"
+    },
+    {
+        "name": "Mewtwo ex",
+        "type": "Mewtwo ex",
+        "hp": "Psychic",
+        "card_type": "Pokémon\n              - Basic",
+        "attacks": "Psychic Sphere, Psydrive 150",
+        "weakness": "Darkness ",
+        "retreat": "2",
+        "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_286_EN.webp"
+    }
+]
