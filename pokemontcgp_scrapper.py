@@ -35,28 +35,27 @@ type_mapping = {
 
 # Funzione per mappare i simboli al tipo, con separazione per le stringhe più lunghe
 def map_attack_cost(cost_elements):
-    cost_counts = {}
+    cost_list = []  # Lista per contenere i tipi di energia
     
     for cost in cost_elements:
-        cost_symbol = cost.text.strip()  # Simbolo grezzo
+        cost_symbol = cost.text.strip()  # Estrae il simbolo di energia
         
-        # Se il simbolo è una stringa lunga, la dividiamo in singole lettere
+        # Se il simbolo è composto da più lettere, lo separiamo
         if len(cost_symbol) > 1:
             for letter in cost_symbol:
                 cost_type = type_mapping.get(letter, 'Unknown')
                 if cost_type == 'Unknown':
                     print(f"Attenzione: simbolo non riconosciuto '{letter}'.")
-                cost_counts[cost_type] = cost_counts.get(cost_type, 0) + 1
+                cost_list.append(cost_type)
         else:
             # Caso in cui il simbolo è una singola lettera
             cost_type = type_mapping.get(cost_symbol, 'Unknown')
             if cost_type == 'Unknown':
                 print(f"Attenzione: simbolo non riconosciuto '{cost_symbol}'.")
-            cost_counts[cost_type] = cost_counts.get(cost_type, 0) + 1
+            cost_list.append(cost_type)
 
-    # Creazione del formato per il costo
-    attack_cost = '-'.join(f"{count}x{ctype}" for ctype, count in cost_counts.items())
-    return attack_cost if attack_cost else 'No Cost'
+    # Restituire la lista di costi
+    return cost_list if cost_list else ['No Cost']
 
 
 # Estrarre i dettagli di ogni carta

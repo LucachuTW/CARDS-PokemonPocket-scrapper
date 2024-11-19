@@ -7,7 +7,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Vine Whip",
                 "damage": "40",
                 "effect": ""
@@ -29,7 +32,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass-2xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Razor Leaf",
                 "damage": "60",
                 "effect": ""
@@ -51,7 +58,12 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xGrass-2xColorless",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Mega Drain",
                 "damage": "80",
                 "effect": "Heal 30 damage from this Pokémon."
@@ -73,13 +85,22 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xGrass-2xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Razor Leaf",
                 "damage": "60",
                 "effect": ""
             },
             {
-                "cost": "2xGrass-2xColorless",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Giant Bloom",
                 "damage": "100",
                 "effect": "Heal 30 damage from this Pokémon."
@@ -101,7 +122,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Find a",
                 "damage": "Friend",
                 "effect": "Put 1 random [G] Pokémon from your deck into your hand."
@@ -123,7 +146,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Bug Bite",
                 "damage": "30",
                 "effect": ""
@@ -145,7 +171,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xGrass-2xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Gust",
                 "damage": "60",
                 "effect": ""
@@ -167,7 +197,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Sting",
                 "damage": "20",
                 "effect": ""
@@ -189,7 +221,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Bug Bite",
                 "damage": "30",
                 "effect": ""
@@ -211,7 +245,9 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Sharp Sting",
                 "damage": "70",
                 "effect": ""
@@ -233,7 +269,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Ram",
                 "damage": "20",
                 "effect": ""
@@ -255,7 +293,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Drool",
                 "damage": "40",
                 "effect": ""
@@ -277,7 +318,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Soothing Scent",
                 "damage": "80",
                 "effect": "Your opponent's Active Pokémon is now Asleep."
@@ -299,7 +344,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Scratch",
                 "damage": "30",
                 "effect": ""
@@ -321,7 +369,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Slash",
                 "damage": "80",
                 "effect": ""
@@ -343,7 +395,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Tackle",
                 "damage": "20",
                 "effect": ""
@@ -365,7 +419,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Poison Powder",
                 "damage": "30",
                 "effect": "Your opponent's Active Pokémon is now Poisoned."
@@ -387,7 +443,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Vine Whip",
                 "damage": "20",
                 "effect": ""
@@ -409,7 +467,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Razor Leaf",
                 "damage": "40",
                 "effect": ""
@@ -431,7 +492,10 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Vine Whip",
                 "damage": "60",
                 "effect": ""
@@ -453,7 +517,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Seed Bomb",
                 "damage": "20",
                 "effect": ""
@@ -475,7 +541,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Stomp",
                 "damage": "30+",
                 "effect": "Flip a coin. If heads, this attack does 30 more damage."
@@ -497,7 +565,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Tropical Swing",
                 "damage": "40+",
                 "effect": "Flip a coin. If heads, this attack does 40 more damage."
@@ -519,7 +589,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Absorb",
                 "damage": "40",
                 "effect": "Heal 10 damage from this Pokémon."
@@ -541,7 +614,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Sharp Scythe",
                 "damage": "30",
                 "effect": ""
@@ -563,7 +638,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xGrass",
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
                 "name": "Double Horn",
                 "damage": "50x",
                 "effect": "Flip 2 coins. This attack does 50 damage for each heads."
@@ -585,7 +663,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Attach",
                 "damage": "10",
                 "effect": ""
@@ -607,7 +687,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Rolling Tackle",
                 "damage": "40",
                 "effect": ""
@@ -629,7 +711,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Blot",
                 "damage": "10",
                 "effect": "Heal 10 damage from this Pokémon."
@@ -651,7 +735,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xGrass",
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
                 "name": "Leaf Supply",
                 "damage": "50",
                 "effect": "Take a [G] Energy from your Energy Zone and attach it to 1 of your Benched [G] Pokémon."
@@ -673,7 +760,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Surprise Attack",
                 "damage": "40",
                 "effect": "Flip a coin. If tails, this attack does nothing."
@@ -695,7 +784,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass-2xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Razor Leaf",
                 "damage": "70",
                 "effect": ""
@@ -717,7 +810,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Ember",
                 "damage": "30",
                 "effect": "Discard a [R] Energy from this Pokémon."
@@ -739,7 +834,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Fire Claws",
                 "damage": "60",
                 "effect": ""
@@ -761,7 +860,12 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Fire Spin",
                 "damage": "150",
                 "effect": "Discard 2 [R] Energy from this Pokémon."
@@ -783,13 +887,22 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Slash",
                 "damage": "60",
                 "effect": ""
             },
             {
-                "cost": "2xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Crimson Storm",
                 "damage": "200",
                 "effect": "Discard 2 [R] Energy from this Pokémon."
@@ -811,7 +924,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Tail",
                 "damage": "Whip",
                 "effect": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
@@ -833,7 +948,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFire",
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
                 "name": "Flamethrower",
                 "damage": "90",
                 "effect": "Discard a [R] Energy from this Pokémon."
@@ -855,7 +973,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Bite",
                 "damage": "20",
                 "effect": ""
@@ -877,7 +998,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFire-1xColorless",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
                 "name": "Heat Tackle",
                 "damage": "100",
                 "effect": "This Pokémon also does 20 damage to itself."
@@ -899,7 +1024,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFire-1xColorless",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
                 "name": "Inferno Onrush",
                 "damage": "120",
                 "effect": "This Pokémon also does 20 damage to itself."
@@ -921,7 +1050,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Flare",
                 "damage": "20",
                 "effect": ""
@@ -943,7 +1074,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Fire Mane",
                 "damage": "40",
                 "effect": ""
@@ -965,7 +1098,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xFire",
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
                 "name": "Magma Punch",
                 "damage": "50",
                 "effect": ""
@@ -987,7 +1123,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Flamethrower",
                 "damage": "110",
                 "effect": "Discard 1 [R] Energy from this Pokémon."
@@ -1009,7 +1149,11 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Sky Attack",
                 "damage": "130",
                 "effect": "Flip a coin. If tails, this attack does nothing."
@@ -1031,13 +1175,19 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Inferno",
                 "damage": "Dance",
                 "effect": "Flip 3 coins. Take an amount of [R] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [R] Pokémon in any way you like."
             },
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Heat Blast",
                 "damage": "70",
                 "effect": ""
@@ -1059,7 +1209,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Combustion",
                 "damage": "30",
                 "effect": ""
@@ -1081,7 +1233,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Scratch",
                 "damage": "20",
                 "effect": ""
@@ -1103,7 +1257,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFire-1xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
                 "name": "Fire Claws",
                 "damage": "60",
                 "effect": ""
@@ -1125,7 +1282,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Gnaw",
                 "damage": "10",
                 "effect": ""
@@ -1147,7 +1306,12 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFire-3xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Fire Blast",
                 "damage": "130",
                 "effect": "Discard a [R] Energy from this Pokémon."
@@ -1169,7 +1333,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "ater Gun",
                 "damage": "20",
                 "effect": ""
@@ -1191,7 +1357,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Wave Splash",
                 "damage": "40",
                 "effect": ""
@@ -1213,7 +1382,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Hydro Pump",
                 "damage": "80+",
                 "effect": "If this Pokémon has at least 2 extra [W] Energy attached, this attack does 60 more damage."
@@ -1235,13 +1408,20 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Surf",
                 "damage": "40",
                 "effect": ""
             },
             {
-                "cost": "2xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Hydro Bazooka",
                 "damage": "100+",
                 "effect": "If this Pokémon has at least 2 extra [W] Energy attached, this attack does 60 more damage."
@@ -1263,7 +1443,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Headache",
                 "damage": "10",
                 "effect": "Your opponent can't use any Supporter cards from their hand during their next turn."
@@ -1285,7 +1467,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xWater",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
                 "name": "Aqua Edge",
                 "damage": "70",
                 "effect": ""
@@ -1307,7 +1492,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Razor Fin",
                 "damage": "10",
                 "effect": ""
@@ -1329,7 +1516,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Knuckle Punch",
                 "damage": "40",
                 "effect": ""
@@ -1351,7 +1541,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xWater-2xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Mega Punch",
                 "damage": "80",
                 "effect": ""
@@ -1373,7 +1567,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "Gentle Slap",
                 "damage": "20",
                 "effect": ""
@@ -1395,7 +1591,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Poison Tentacles",
                 "damage": "50",
                 "effect": "Your opponent's Active Pokémon is now Poisoned."
@@ -1417,7 +1616,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Headbutt",
                 "damage": "30",
                 "effect": ""
@@ -1439,7 +1641,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xWater",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
                 "name": "Surf",
                 "damage": "90",
                 "effect": ""
@@ -1461,7 +1667,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "Tongue Slap",
                 "damage": "20",
                 "effect": ""
@@ -1483,7 +1691,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Surf",
                 "damage": "70",
                 "effect": ""
@@ -1505,7 +1717,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Vise Grip",
                 "damage": "40",
                 "effect": ""
@@ -1527,7 +1742,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "KO Crab",
                 "damage": "80+",
                 "effect": "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
@@ -1549,7 +1768,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "ater Gun",
                 "damage": "20",
                 "effect": ""
@@ -1571,7 +1792,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xWater",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
                 "name": "Water",
                 "damage": "Arrow",
                 "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
@@ -1593,7 +1818,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Flop",
                 "damage": "10",
                 "effect": ""
@@ -1615,7 +1842,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "Horn Hazard",
                 "damage": "80",
                 "effect": "Flip a coin. If tails, this attack does nothing."
@@ -1637,7 +1866,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "Smack",
                 "damage": "20",
                 "effect": ""
@@ -1659,7 +1890,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "ave Splash",
                 "damage": "40",
                 "effect": ""
@@ -1681,7 +1914,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xWater",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
                 "name": "Hydro Splash",
                 "damage": "90",
                 "effect": ""
@@ -1703,7 +1939,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Splash",
                 "damage": "10",
                 "effect": ""
@@ -1725,7 +1963,12 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "4xWater",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
                 "name": "Hyper Beam",
                 "damage": "100",
                 "effect": "Discard a random Energy from your opponent's Active Pokémon."
@@ -1747,7 +1990,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "Hydro Pump",
                 "damage": "20+",
                 "effect": "If this Pokémon has at least 3 extra [W] Energy attached, this attack does 70 more damage."
@@ -1769,7 +2014,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xWater-2xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Bubble Drain",
                 "damage": "60",
                 "effect": "Heal 30 damage from this Pokémon."
@@ -1791,7 +2040,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "ater Gun",
                 "damage": "40",
                 "effect": ""
@@ -1813,7 +2064,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xWater-2xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Ancient Whirlpool",
                 "damage": "70",
                 "effect": "During your opponent's next turn, the Defending Pokémon can't attack."
@@ -1835,7 +2090,11 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Ice Beam",
                 "damage": "60",
                 "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
@@ -1857,13 +2116,20 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Ice Wing",
                 "damage": "40",
                 "effect": ""
             },
             {
-                "cost": "3xWater",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
                 "name": "Blizzard",
                 "damage": "80",
                 "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
@@ -1885,7 +2151,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Flap",
                 "damage": "30",
                 "effect": ""
@@ -1907,7 +2176,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Wing Attack",
                 "damage": "70",
                 "effect": ""
@@ -1929,7 +2202,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Flop",
                 "damage": "10",
                 "effect": ""
@@ -1951,7 +2226,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Water Drip",
                 "damage": "30",
                 "effect": ""
@@ -1973,7 +2250,10 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Mist Slash",
                 "damage": "60",
                 "effect": ""
@@ -1995,7 +2275,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "Rain Splash",
                 "damage": "30",
                 "effect": ""
@@ -2017,7 +2299,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Second Strike",
                 "damage": "10+",
                 "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
@@ -2039,7 +2324,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Ram",
                 "damage": "10",
                 "effect": ""
@@ -2061,7 +2348,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Powder Snow",
                 "damage": "40",
                 "effect": "Your opponent's Active Pokémon is now Asleep."
@@ -2083,7 +2373,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Gnaw",
                 "damage": "20",
                 "effect": ""
@@ -2105,7 +2397,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Thunderbolt",
                 "damage": "140",
                 "effect": "Discard all Energy from this Pokémon."
@@ -2127,7 +2423,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Circle Circuit",
                 "damage": "30x",
                 "effect": "This attack does 30 damage for each of your Benched [L] Pokémon."
@@ -2149,7 +2448,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "ightning Ball",
                 "damage": "20",
                 "effect": ""
@@ -2171,7 +2472,12 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xLightning-3xColorless",
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Spinning Attack",
                 "damage": "60",
                 "effect": ""
@@ -2193,7 +2499,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Tackle",
                 "damage": "20",
                 "effect": ""
@@ -2215,7 +2523,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Electro Ball",
                 "damage": "70",
                 "effect": ""
@@ -2237,7 +2548,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Thunder Punch",
                 "damage": "40+",
                 "effect": "Flip a coin. If heads, this attack does 40 more damage. If tails, this Pokémon also does 20 damage to itself."
@@ -2259,7 +2573,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xLightning-1xColorless",
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
                 "name": "Pin Missile",
                 "damage": "40x",
                 "effect": "Flip 4 coins. This attack does 40 damage for each heads."
@@ -2281,7 +2598,11 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xLightning-1xColorless",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
                 "name": "Raging Thunder",
                 "damage": "100",
                 "effect": "This attack also does 30 damage to 1 of your Benched Pokémon."
@@ -2303,13 +2624,19 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Peck",
                 "damage": "20",
                 "effect": ""
             },
             {
-                "cost": "3xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Thundering Hurricane",
                 "damage": "50x",
                 "effect": "Flip 4 coins. This attack does 50 damage for each heads."
@@ -2331,7 +2658,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Zap Kick",
                 "damage": "20",
                 "effect": ""
@@ -2353,7 +2682,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Thunder",
                 "damage": "Spear",
                 "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
@@ -2375,7 +2706,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Tiny Charge",
                 "damage": "30",
                 "effect": ""
@@ -2397,7 +2730,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Head Bolt",
                 "damage": "40",
                 "effect": ""
@@ -2419,7 +2754,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xLightning-1xColorless",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
                 "name": "Thunder Fang",
                 "damage": "80",
                 "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
@@ -2441,7 +2780,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Tail Whap",
                 "damage": "20",
                 "effect": ""
@@ -2463,7 +2804,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Quick Attack",
                 "damage": "40+",
                 "effect": "Flip a coin. If heads, this attack does 40 more damage."
@@ -2485,7 +2829,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Thunder Shock",
                 "damage": "30",
                 "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
@@ -2507,7 +2854,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic",
+                "cost": [
+                    "Psychic"
+                ],
                 "name": "Slap",
                 "damage": "20",
                 "effect": ""
@@ -2529,7 +2878,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xPsychic",
+                "cost": [
+                    "Psychic"
+                ],
                 "name": "Magical Shot",
                 "damage": "40",
                 "effect": ""
@@ -2551,7 +2902,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Unknown",
                 "damage": "0",
                 "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
@@ -2573,7 +2926,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Super Psy Bolt",
                 "damage": "60",
                 "effect": ""
@@ -2595,7 +2952,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Psychic",
                 "damage": "60+",
                 "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
@@ -2617,7 +2978,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Tail Whap",
                 "damage": "30",
                 "effect": ""
@@ -2639,7 +3003,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Super Psy Bolt",
                 "damage": "80",
                 "effect": ""
@@ -2661,7 +3029,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic",
+                "cost": [
+                    "Psychic"
+                ],
                 "name": "Suffocating Gas",
                 "damage": "20",
                 "effect": ""
@@ -2683,7 +3053,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xPsychic",
+                "cost": [
+                    "Psychic"
+                ],
                 "name": "Will-O-Wisp",
                 "damage": "30",
                 "effect": ""
@@ -2705,7 +3077,9 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xPsychic",
+                "cost": [
+                    "Psychic"
+                ],
                 "name": "Bother",
                 "damage": "50",
                 "effect": "Your opponent can't use any Supporter cards from their hand during their next turn."
@@ -2727,7 +3101,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "3xPsychic",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic"
+                ],
                 "name": "Spooky Shot",
                 "damage": "100",
                 "effect": ""
@@ -2749,7 +3127,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Mumble",
                 "damage": "30",
                 "effect": ""
@@ -2771,7 +3152,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Psypunch",
                 "damage": "50",
                 "effect": ""
@@ -2793,7 +3178,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Barrier Attack",
                 "damage": "30",
                 "effect": "During your opponent's next turn, this Pokémon takes -20 damage from attacks."
@@ -2815,7 +3203,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Psychic",
                 "damage": "30+",
                 "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
@@ -2837,7 +3228,12 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Power Blast",
                 "damage": "120",
                 "effect": "Discard 2 [P] Energy from this Pokémon."
@@ -2859,13 +3255,21 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Psychic Sphere",
                 "damage": "50",
                 "effect": ""
             },
             {
-                "cost": "2xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Psydrive",
                 "damage": "150",
                 "effect": "Discard 2 [P] Energy from this Pokémon."
@@ -2887,7 +3291,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Ram",
                 "damage": "10",
                 "effect": ""
@@ -2909,7 +3315,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Smack",
                 "damage": "30",
                 "effect": ""
@@ -2931,7 +3340,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Psyshot",
                 "damage": "60",
                 "effect": ""
@@ -2953,7 +3366,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Gnaw",
                 "damage": "10",
                 "effect": ""
@@ -2975,7 +3390,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Heart Stamp",
                 "damage": "60",
                 "effect": ""
@@ -2997,7 +3415,11 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Mega Punch",
                 "damage": "50",
                 "effect": ""
@@ -3019,7 +3441,12 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Double Lariat",
                 "damage": "100x",
                 "effect": "Flip 2 coins. This attack does 100 damage for each heads."
@@ -3041,7 +3468,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Scratch",
                 "damage": "10",
                 "effect": ""
@@ -3063,7 +3492,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Slash",
                 "damage": "70",
                 "effect": ""
@@ -3085,7 +3517,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Mud-Slap",
                 "damage": "20",
                 "effect": ""
@@ -3107,7 +3541,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Dig",
                 "damage": "40",
                 "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
@@ -3129,7 +3565,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Low Kick",
                 "damage": "20",
                 "effect": ""
@@ -3151,7 +3589,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Fight Back",
                 "damage": "40+",
                 "effect": "If this Pokémon has damage on it, this attack does 60 more damage."
@@ -3173,7 +3614,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Knuckle Punch",
                 "damage": "20",
                 "effect": ""
@@ -3195,7 +3638,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Strength",
                 "damage": "50",
                 "effect": ""
@@ -3217,7 +3663,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "3xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Seismic Toss",
                 "damage": "100",
                 "effect": ""
@@ -3239,7 +3689,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "3xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Mega Punch",
                 "damage": "120",
                 "effect": ""
@@ -3261,7 +3715,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Tackle",
                 "damage": "20",
                 "effect": ""
@@ -3283,7 +3739,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFighting-2xColorless",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Rollout",
                 "damage": "70",
                 "effect": ""
@@ -3305,7 +3765,12 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xFighting-3xColorless",
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Double-Edge",
                 "damage": "150",
                 "effect": "This Pokémon also does 50 damage to itself."
@@ -3327,7 +3792,11 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "3xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Land Crush",
                 "damage": "70",
                 "effect": ""
@@ -3349,7 +3818,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Unknown",
                 "damage": "0",
                 "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
@@ -3371,7 +3842,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Bone Beatdown",
                 "damage": "40",
                 "effect": ""
@@ -3393,7 +3866,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Bonemerang",
                 "damage": "80x",
                 "effect": "Flip 2 coins. This attack does 80 damage for each heads."
@@ -3415,7 +3891,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Stretch",
                 "damage": "Kick",
                 "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
@@ -3437,7 +3915,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Jab",
                 "damage": "30",
                 "effect": ""
@@ -3459,7 +3939,11 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xFighting-1xColorless",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
                 "name": "Tackle",
                 "damage": "60",
                 "effect": ""
@@ -3481,7 +3965,12 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xFighting-1xColorless",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
                 "name": "Horn Drill",
                 "damage": "100",
                 "effect": ""
@@ -3503,7 +3992,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Shell Attack",
                 "damage": "40",
                 "effect": ""
@@ -3525,7 +4016,9 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Leech Life",
                 "damage": "50",
                 "effect": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
@@ -3547,7 +4040,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Pound",
                 "damage": "20",
                 "effect": ""
@@ -3569,7 +4064,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Spiral Kick",
                 "damage": "40",
                 "effect": ""
@@ -3591,7 +4088,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFighting-1xColorless",
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
                 "name": "Knuckle Punch",
                 "damage": "30",
                 "effect": ""
@@ -3613,7 +4113,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFighting-1xColorless",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
                 "name": "Knock Back",
                 "damage": "70",
                 "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
@@ -3635,7 +4139,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xDarkness",
+                "cost": [
+                    "Darkness"
+                ],
                 "name": "Bite",
                 "damage": "20",
                 "effect": ""
@@ -3657,7 +4163,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xDarkness-1xColorless",
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
                 "name": "Corner",
                 "damage": "60",
                 "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
@@ -3679,7 +4188,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xDarkness",
+                "cost": [
+                    "Darkness"
+                ],
                 "name": "Call for",
                 "damage": "Family",
                 "effect": "Put 1 random Nidoran♂ from your deck onto your Bench."
@@ -3701,7 +4212,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xDarkness",
+                "cost": [
+                    "Darkness"
+                ],
                 "name": "Bite",
                 "damage": "30",
                 "effect": ""
@@ -3723,7 +4236,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xDarkness-1xColorless",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
                 "name": "Lovestrike",
                 "damage": "80+",
                 "effect": "This attack does 50 more damage for each of your Benched Nidoking."
@@ -3745,7 +4262,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xDarkness",
+                "cost": [
+                    "Darkness"
+                ],
                 "name": "Peck",
                 "damage": "20",
                 "effect": ""
@@ -3767,7 +4286,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xDarkness-1xColorless",
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
                 "name": "Horn Attack",
                 "damage": "40",
                 "effect": ""
@@ -3789,7 +4311,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xDarkness-1xColorless",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
                 "name": "Poison Horn",
                 "damage": "90",
                 "effect": "Your opponent's Active Pokémon is now Poisoned."
@@ -3811,7 +4337,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Glide",
                 "damage": "10",
                 "effect": ""
@@ -3833,7 +4361,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Wing Attack",
                 "damage": "40",
                 "effect": ""
@@ -3855,7 +4385,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xDarkness",
+                "cost": [
+                    "Darkness"
+                ],
                 "name": "Poison Gas",
                 "damage": "10",
                 "effect": "Your opponent's Active Pokémon is now Poisoned."
@@ -3877,7 +4409,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xDarkness-1xColorless",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
                 "name": "Venoshock",
                 "damage": "70+",
                 "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 50 more damage."
@@ -3899,7 +4435,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xDarkness",
+                "cost": [
+                    "Darkness"
+                ],
                 "name": "Suffocating Gas",
                 "damage": "20",
                 "effect": ""
@@ -3921,7 +4459,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xDarkness",
+                "cost": [
+                    "Darkness"
+                ],
                 "name": "Tackle",
                 "damage": "30",
                 "effect": ""
@@ -3943,7 +4483,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xMetal",
+                "cost": [
+                    "Metal"
+                ],
                 "name": "Crunch",
                 "damage": "20",
                 "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
@@ -3965,7 +4507,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xMetal",
+                "cost": [
+                    "Metal"
+                ],
                 "name": "Pierce",
                 "damage": "30",
                 "effect": ""
@@ -3987,7 +4531,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xMetal",
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
                 "name": "Metal Claw",
                 "damage": "70",
                 "effect": ""
@@ -4009,7 +4556,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xMetal",
+                "cost": [
+                    "Metal"
+                ],
                 "name": "Unknown",
                 "damage": "0",
                 "effect": "Take 1 [M] Energy from your Energy Zone and attach it to this Pokémon."
@@ -4031,7 +4580,12 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xMetal-1xColorless",
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
                 "name": "Heavy Impact",
                 "damage": "120",
                 "effect": ""
@@ -4053,7 +4607,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater-1xLightning",
+                "cost": [
+                    "Water",
+                    "Lightning"
+                ],
                 "name": "Ram",
                 "damage": "40",
                 "effect": ""
@@ -4075,7 +4632,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xWater-1xLightning-1xColorless",
+                "cost": [
+                    "Water",
+                    "Lightning",
+                    "Colorless"
+                ],
                 "name": "Tail Smack",
                 "damage": "80",
                 "effect": ""
@@ -4097,7 +4658,12 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xWater-1xLightning-2xColorless",
+                "cost": [
+                    "Water",
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Draco",
                 "damage": "Meteor",
                 "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it."
@@ -4119,7 +4685,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Gust",
                 "damage": "10",
                 "effect": ""
@@ -4141,7 +4709,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Gust",
                 "damage": "30",
                 "effect": ""
@@ -4163,7 +4733,10 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Wing Attack",
                 "damage": "70",
                 "effect": ""
@@ -4185,7 +4758,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Gnaw",
                 "damage": "20",
                 "effect": ""
@@ -4207,7 +4782,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Bite",
                 "damage": "40",
                 "effect": ""
@@ -4229,7 +4806,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Peck",
                 "damage": "20",
                 "effect": ""
@@ -4251,7 +4830,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Drill Run",
                 "damage": "50",
                 "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
@@ -4273,7 +4855,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Pound",
                 "damage": "30",
                 "effect": ""
@@ -4295,7 +4880,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Hyper Voice",
                 "damage": "60",
                 "effect": ""
@@ -4317,7 +4905,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Sleepy Song",
                 "damage": "80",
                 "effect": "Your opponent's Active Pokémon is now Asleep."
@@ -4339,7 +4931,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Pay Day",
                 "damage": "10",
                 "effect": "Draw 1 card."
@@ -4361,7 +4955,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Shadow Claw",
                 "damage": "40",
                 "effect": "Flip a coin. If heads, discard a random card from your opponent's hand."
@@ -4383,7 +4980,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Leek Slap",
                 "damage": "40",
                 "effect": ""
@@ -4405,7 +5004,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Peck",
                 "damage": "20",
                 "effect": ""
@@ -4427,7 +5028,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Drill Peck",
                 "damage": "40",
                 "effect": ""
@@ -4449,7 +5052,11 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "3xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Continuous Lick",
                 "damage": "60x",
                 "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads."
@@ -4471,7 +5078,11 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "3xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Gentle Slap",
                 "damage": "60",
                 "effect": ""
@@ -4493,7 +5104,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Dizzy Punch",
                 "damage": "30x",
                 "effect": "Flip 2 coins. This attack does 30 damage for each heads."
@@ -4515,7 +5128,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Horn Attack",
                 "damage": "50",
                 "effect": ""
@@ -4537,7 +5153,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "opy",
                 "damage": "Anything",
                 "effect": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
@@ -4559,7 +5177,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Tackle",
                 "damage": "20",
                 "effect": ""
@@ -4581,7 +5201,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Tackle",
                 "damage": "20",
                 "effect": ""
@@ -4603,7 +5225,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Tackle",
                 "damage": "20",
                 "effect": ""
@@ -4625,7 +5249,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Sharpen",
                 "damage": "20",
                 "effect": ""
@@ -4647,7 +5273,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Primal",
                 "damage": "Wingbeat",
                 "effect": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck."
@@ -4669,7 +5298,12 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "4xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Rollout",
                 "damage": "70",
                 "effect": ""
@@ -4691,7 +5325,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Tail Smack",
                 "damage": "20",
                 "effect": ""
@@ -4713,7 +5349,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Do the Wave",
                 "damage": "30x",
                 "effect": "This attack does 30 damage for each of your Benched Pokémon."
@@ -4735,7 +5375,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Tackle",
                 "damage": "30",
                 "effect": ""
@@ -4757,7 +5400,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Rolling Tackle",
                 "damage": "80",
                 "effect": ""
@@ -4922,7 +5569,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Vine Whip",
                 "damage": "40",
                 "effect": ""
@@ -4944,7 +5594,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass-1xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "name": "Drool",
                 "damage": "40",
                 "effect": ""
@@ -4966,7 +5619,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xGrass",
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
                 "name": "Double Horn",
                 "damage": "50x",
                 "effect": "Flip 2 coins. This attack does 50 damage for each heads."
@@ -4988,7 +5644,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Ember",
                 "damage": "30",
                 "effect": "Discard a [R] Energy from this Pokémon."
@@ -5010,7 +5668,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Fire Mane",
                 "damage": "40",
                 "effect": ""
@@ -5032,7 +5692,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "ater Gun",
                 "damage": "20",
                 "effect": ""
@@ -5054,7 +5716,12 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "4xWater",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
                 "name": "Hyper Beam",
                 "damage": "100",
                 "effect": "Discard a random Energy from your opponent's Active Pokémon."
@@ -5076,7 +5743,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater",
+                "cost": [
+                    "Water"
+                ],
                 "name": "Hydro Pump",
                 "damage": "20+",
                 "effect": "If this Pokémon has at least 3 extra [W] Energy attached, this attack does 70 more damage."
@@ -5098,7 +5767,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Electro Ball",
                 "damage": "70",
                 "effect": ""
@@ -5120,7 +5792,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Psychic",
                 "damage": "60+",
                 "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
@@ -5142,7 +5818,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Tail Whap",
                 "damage": "30",
                 "effect": ""
@@ -5164,7 +5843,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFighting",
+                "cost": [
+                    "Fighting"
+                ],
                 "name": "Mud-Slap",
                 "damage": "20",
                 "effect": ""
@@ -5186,7 +5867,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Unknown",
                 "damage": "0",
                 "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage."
@@ -5208,7 +5891,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xDarkness-1xColorless",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
                 "name": "Lovestrike",
                 "damage": "80+",
                 "effect": "This attack does 50 more damage for each of your Benched Nidoking."
@@ -5230,7 +5917,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xDarkness-1xColorless",
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
                 "name": "Poison Horn",
                 "damage": "90",
                 "effect": "Your opponent's Active Pokémon is now Poisoned."
@@ -5252,7 +5943,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Wing Attack",
                 "damage": "40",
                 "effect": ""
@@ -5274,7 +5967,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xDarkness",
+                "cost": [
+                    "Darkness"
+                ],
                 "name": "Tackle",
                 "damage": "30",
                 "effect": ""
@@ -5296,7 +5991,12 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xWater-1xLightning-2xColorless",
+                "cost": [
+                    "Water",
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Draco",
                 "damage": "Meteor",
                 "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 50 damage to it."
@@ -5318,7 +6018,10 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "2xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Wing Attack",
                 "damage": "70",
                 "effect": ""
@@ -5340,7 +6043,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Pay Day",
                 "damage": "10",
                 "effect": "Draw 1 card."
@@ -5362,7 +6067,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "opy",
                 "damage": "Anything",
                 "effect": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
@@ -5384,7 +6091,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Tackle",
                 "damage": "20",
                 "effect": ""
@@ -5406,7 +6115,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xColorless",
+                "cost": [
+                    "Colorless"
+                ],
                 "name": "Sharpen",
                 "damage": "20",
                 "effect": ""
@@ -5428,7 +6139,12 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "4xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Rollout",
                 "damage": "70",
                 "effect": ""
@@ -5450,13 +6166,22 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xGrass-2xColorless",
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Razor Leaf",
                 "damage": "60",
                 "effect": ""
             },
             {
-                "cost": "2xGrass-2xColorless",
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Giant Bloom",
                 "damage": "100",
                 "effect": "Heal 30 damage from this Pokémon."
@@ -5478,7 +6203,9 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "1xGrass",
+                "cost": [
+                    "Grass"
+                ],
                 "name": "Tropical Swing",
                 "damage": "40+",
                 "effect": "Flip a coin. If heads, this attack does 40 more damage."
@@ -5500,13 +6227,22 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Slash",
                 "damage": "60",
                 "effect": ""
             },
             {
-                "cost": "2xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Crimson Storm",
                 "damage": "200",
                 "effect": "Discard 2 [R] Energy from this Pokémon."
@@ -5528,7 +6264,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFire-1xColorless",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
                 "name": "Inferno Onrush",
                 "damage": "120",
                 "effect": "This Pokémon also does 20 damage to itself."
@@ -5550,13 +6290,19 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Inferno",
                 "damage": "Dance",
                 "effect": "Flip 3 coins. Take an amount of [R] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [R] Pokémon in any way you like."
             },
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Heat Blast",
                 "damage": "70",
                 "effect": ""
@@ -5578,13 +6324,20 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Surf",
                 "damage": "40",
                 "effect": ""
             },
             {
-                "cost": "2xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Hydro Bazooka",
                 "damage": "100+",
                 "effect": "If this Pokémon has at least 2 extra [W] Energy attached, this attack does 60 more damage."
@@ -5606,7 +6359,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xWater",
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
                 "name": "Hydro Splash",
                 "damage": "90",
                 "effect": ""
@@ -5628,13 +6384,20 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Ice Wing",
                 "damage": "40",
                 "effect": ""
             },
             {
-                "cost": "3xWater",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
                 "name": "Blizzard",
                 "damage": "80",
                 "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
@@ -5656,7 +6419,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Circle Circuit",
                 "damage": "30x",
                 "effect": "This attack does 30 damage for each of your Benched [L] Pokémon."
@@ -5678,13 +6444,19 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Peck",
                 "damage": "20",
                 "effect": ""
             },
             {
-                "cost": "3xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Thundering Hurricane",
                 "damage": "50x",
                 "effect": "Flip 4 coins. This attack does 50 damage for each heads."
@@ -5706,7 +6478,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "3xPsychic",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic"
+                ],
                 "name": "Spooky Shot",
                 "damage": "100",
                 "effect": ""
@@ -5728,13 +6504,21 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Psychic Sphere",
                 "damage": "50",
                 "effect": ""
             },
             {
-                "cost": "2xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Psydrive",
                 "damage": "150",
                 "effect": "Discard 2 [P] Energy from this Pokémon."
@@ -5756,7 +6540,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "3xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Mega Punch",
                 "damage": "120",
                 "effect": ""
@@ -5778,7 +6566,10 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "2xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Bonemerang",
                 "damage": "80x",
                 "effect": "Flip 2 coins. This attack does 80 damage for each heads."
@@ -5800,7 +6591,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Sleepy Song",
                 "damage": "80",
                 "effect": "Your opponent's Active Pokémon is now Asleep."
@@ -5926,13 +6721,19 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xFire",
+                "cost": [
+                    "Fire"
+                ],
                 "name": "Inferno",
                 "damage": "Dance",
                 "effect": "Flip 3 coins. Take an amount of [R] Energy from your Energy Zone equal to the number of heads and attach it to your Benched [R] Pokémon in any way you like."
             },
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Heat Blast",
                 "damage": "70",
                 "effect": ""
@@ -5954,13 +6755,20 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xWater-1xColorless",
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "name": "Ice Wing",
                 "damage": "40",
                 "effect": ""
             },
             {
-                "cost": "3xWater",
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
                 "name": "Blizzard",
                 "damage": "80",
                 "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
@@ -5982,13 +6790,19 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xLightning",
+                "cost": [
+                    "Lightning"
+                ],
                 "name": "Peck",
                 "damage": "20",
                 "effect": ""
             },
             {
-                "cost": "3xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Thundering Hurricane",
                 "damage": "50x",
                 "effect": "Flip 4 coins. This attack does 50 damage for each heads."
@@ -6010,7 +6824,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "3xPsychic",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic"
+                ],
                 "name": "Spooky Shot",
                 "damage": "100",
                 "effect": ""
@@ -6032,7 +6850,11 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "3xFighting",
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
                 "name": "Mega Punch",
                 "damage": "120",
                 "effect": ""
@@ -6054,7 +6876,11 @@
         "card_type": "Stage 1",
         "attacks": [
             {
-                "cost": "3xColorless",
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Sleepy Song",
                 "damage": "80",
                 "effect": "Your opponent's Active Pokémon is now Asleep."
@@ -6076,13 +6902,22 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Slash",
                 "damage": "60",
                 "effect": ""
             },
             {
-                "cost": "2xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Crimson Storm",
                 "damage": "200",
                 "effect": "Discard 2 [R] Energy from this Pokémon."
@@ -6104,7 +6939,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Circle Circuit",
                 "damage": "30x",
                 "effect": "This attack does 30 damage for each of your Benched [L] Pokémon."
@@ -6126,13 +6964,21 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Psychic Sphere",
                 "damage": "50",
                 "effect": ""
             },
             {
-                "cost": "2xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Psydrive",
                 "damage": "150",
                 "effect": "Discard 2 [P] Energy from this Pokémon."
@@ -6154,7 +7000,9 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic",
+                "cost": [
+                    "Psychic"
+                ],
                 "name": "sy Report",
                 "damage": "20",
                 "effect": "Your opponent reveals their hand."
@@ -6176,13 +7024,22 @@
         "card_type": "Stage 2",
         "attacks": [
             {
-                "cost": "1xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Slash",
                 "damage": "60",
                 "effect": ""
             },
             {
-                "cost": "2xFire-2xColorless",
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Crimson Storm",
                 "damage": "200",
                 "effect": "Discard 2 [R] Energy from this Pokémon."
@@ -6204,7 +7061,10 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "2xLightning",
+                "cost": [
+                    "Lightning",
+                    "Lightning"
+                ],
                 "name": "Circle Circuit",
                 "damage": "30x",
                 "effect": "This attack does 30 damage for each of your Benched [L] Pokémon."
@@ -6226,13 +7086,21 @@
         "card_type": "Basic",
         "attacks": [
             {
-                "cost": "1xPsychic-1xColorless",
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
                 "name": "Psychic Sphere",
                 "damage": "50",
                 "effect": ""
             },
             {
-                "cost": "2xPsychic-2xColorless",
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "name": "Psydrive",
                 "damage": "150",
                 "effect": "Discard 2 [P] Energy from this Pokémon."
