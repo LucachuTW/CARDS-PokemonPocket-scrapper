@@ -2,83 +2,102 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 import json
+import re
 
-# URL del sitio de las cartas
+# URL del sito delle carte
 url = 'https://pocket.limitlesstcg.com/cards/A1?display=compact'
 
-# Realizamos la solicitud HTTP para obtener el contenido de la página
+# Realizziamo la richiesta HTTP per ottenere il contenuto della pagina
 response = requests.get(url)
 html_content = response.text
 
-# Analizamos el HTML con BeautifulSoup
+# Analizziamo l'HTML con BeautifulSoup
 soup = BeautifulSoup(html_content, 'html.parser')
 
-# Encontramos todas las cartas en la página
+# Troviamo tutte le carte nella pagina
 cards = soup.find_all('div', class_='card-classic')
 
-# Lista para almacenar los datos de las cartas
+# Lista per memorizzare i dati delle carte
 card_data = []
 
-# Extraemos los detalles de cada carta
+# Estrarre i dettagli di ogni carta
 for card in cards:
     card_info = {}
 
-    # Nombre de la carta
+    # Nome della carta
     name_section = card.find('span', class_='card-text-name')
     if name_section:
         card_info['name'] = name_section.text.strip()
 
-    # Tipo y HP de la carta
+    # Tipo e HP della carta
     type_hp_section = card.find('p', class_='card-text-title')
     if type_hp_section:
         type_hp_text = type_hp_section.text.strip()
-        # Extraemos el tipo y HP (por ejemplo: "Grass - 70 HP")
+        # Estrarre il tipo e HP (esempio: "Grass - 70 HP")
         type_hp = type_hp_text.split(' - ')
         if len(type_hp) > 0:
-            card_info['type'] = type_hp[0].strip()  # Tipo de carta (por ejemplo: "Grass")
+            card_info['type'] = type_hp[0].strip()  # Tipo di carta (esempio: "Grass")
         else:
             card_info['type'] = 'N/A'
         if len(type_hp) > 1:
-            card_info['hp'] = type_hp[1].strip()  # HP (por ejemplo: "70 HP")
+            card_info['hp'] = type_hp[1].strip()  # HP (esempio: "70 HP")
         else:
             card_info['hp'] = 'N/A'
 
-    # Tipo de carta
+    # Tipo di carta
     card_type_section = card.find('p', class_='card-text-type')
     if card_type_section:
         card_info['card_type'] = card_type_section.text.strip()
 
-    # Ataques de la carta
-    attack_section = card.find_all('p', class_='card-text-attack-info')
-    if attack_section:
-        attacks = []
-        for attack in attack_section:
-            attack_details = attack.text.strip()
-            # Asegúrate de que haya al menos 3 partes (nombre, coste, daño)
-            if len(attack_details.split()) >= 3:
-                attack_name = attack_details.split()[1]  # Nombre del ataque
-                attack_damage = attack_details.split()[2]  # Daño del ataque
-                attacks.append({'name': attack_name, 'damage': attack_damage})
-        card_info['attacks'] = attacks
-    else:
-        card_info['attacks'] = []  # Si no tiene ataques, asignamos una lista vacía
+    # Dizionario di mappatura per le lettere e le tipologie
+    type_mapping = {
+        'G': 'Grass',
+        'R': 'Fire',
+        'W': 'Water',
+        'L': 'Lightning',
+        'P': 'Psychic',
+        'F': 'Fighting',
+        'D': 'Darkness',
+        'M': 'Metal',
+        'Y': 'Fairy',
+        'C': 'Colorless'
+    }
 
-    # Debilidad y coste de retiro
+    # Attacchi della carta
+    attack_section = card.find_all('div', class_='card-text-attack')
+    attacks = []
+    card_info['attacks'] = attacks
+
+    for attack in attack_section:
+        attack_info_section = attack.find('p', class_='card-text-attack-info')
+        if attack_info_section:
+            # Estrarre il costo dell'attacco
+            cost_elements = attack_info_section.find('span', class_='ptcg-symbol')
+            attack_cost = [type_mapping.get(symbol, 'Unknown') for symbol in cost_elements.text.strip()] if cost_elements else []
+            attack_text = attack_info_section.text.replace(cost_elements.text, '').strip() if cost_elements else attack_info_section.text.strip()
+            attack_parts = attack_text.split(' ')
+            attack_name = ' '.join(attack_parts[:-1]) if len(attack_parts) > 1 else 'Unknown'
+            attack_damage = attack_parts[-1] if len(attack_parts) > 1 else '0'
+            attacks.append({'name': attack_name, 'cost': attack_cost, 'damage': attack_damage})
+        else:
+            card_info['attacks'] = []  # Se non ha attacchi, assegniamo una lista vuota
+
+    # Debolezza e costo di ritirata
     weakness_retreat_section = card.find('p', class_='card-text-wrr')
     if weakness_retreat_section:
         text = weakness_retreat_section.text.strip().split('\n')
-        card_info['weakness'] = text[0].split(': ')[1] if len(text) > 0 else 'N/A'
-        card_info['retreat'] = text[1].split(': ')[1] if len(text) > 1 else 'N/A'
+        card_info['weakness'] = text[0].split(': ')[1] if len(text) > 0 and ': ' in text[0] else 'N/A'
+        card_info['retreat'] = text[1].split(': ')[1] if len(text) > 1 and ': ' in text[1] else 'N/A'
 
-    # Extraemos la URL de la imagen
+    # Estrarre l'URL dell'immagine
     image_section = card.find('img', class_='card shadow max-xs')
     if image_section and 'src' in image_section.attrs:
         card_info['image_url'] = image_section.attrs['src']
 
-    # Agregar los datos extraídos a la lista
+    # Aggiungere i dati estratti alla lista
     card_data.append(card_info)
 
-# Guardar los resultados en un archivo CSV
+# Salvare i risultati in un file CSV
 csv_filename = 'pokemon_cards.csv'
 csv_fields = ['name', 'type', 'hp', 'card_type', 'attacks', 'weakness', 'retreat', 'image_url']
 
@@ -86,16 +105,16 @@ with open(csv_filename, mode='w', newline='', encoding='utf-8') as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=csv_fields)
     writer.writeheader()
     for card in card_data:
-        # Convertir ataques en una cadena para escribir en CSV
-        card['attacks'] = ', '.join([f"{attack['name']} {attack['damage']}" for attack in card['attacks']])
+        # Convertire gli attacchi in una stringa per scrivere nel CSV
+        card['attacks'] = ', '.join([f"{attack['name']} {attack['damage']}" for attack in card['attacks']]) if card['attacks'] else 'N/A'
         writer.writerow(card)
 
-# Guardar los resultados en un archivo JSON
+# Salvare i risultati in un file JSON
 json_filename = 'pokemon_cards.json'
 with open(json_filename, mode='w', encoding='utf-8') as jsonfile:
     json.dump(card_data, jsonfile, indent=4, ensure_ascii=False)
 
-# Mostrar los resultados por consola
+# Mostrare i risultati sulla console
 for card in card_data:
     print(f"Name: {card['name']}")
     print(f"Type: {card.get('type', 'N/A')}")
@@ -105,7 +124,7 @@ for card in card_data:
     print(f"Weakness: {card.get('weakness', 'N/A')}")
     print(f"Retreat Cost: {card.get('retreat', 'N/A')}")
     
-    # Comprobamos si la carta tiene ataques antes de intentar imprimirlos
+    # Controlliamo se la carta ha attacchi prima di tentare di stamparli
     if card['attacks']:
         print(f"Attacks: {card['attacks']}")
     else:
