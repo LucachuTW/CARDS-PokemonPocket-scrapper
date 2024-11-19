@@ -1,8 +1,9 @@
 [
     {
+        "card_id": "A1#1",
         "name": "Bulbasaur",
         "type": "Grass",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -21,9 +22,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_001_EN.webp"
     },
     {
+        "card_id": "A1#2",
         "name": "Ivysaur",
         "type": "Grass",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -42,9 +44,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_002_EN.webp"
     },
     {
+        "card_id": "A1#3",
         "name": "Venusaur",
         "type": "Grass",
-        "hp": "160 HP",
+        "hp": "160",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -63,9 +66,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_003_EN.webp"
     },
     {
+        "card_id": "A1#4",
         "name": "Venusaur ex",
         "type": "Grass",
-        "hp": "190 HP",
+        "hp": "190",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -90,9 +94,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_004_EN.webp"
     },
     {
+        "card_id": "A1#5",
         "name": "Caterpie",
         "type": "Grass",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -111,9 +116,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_005_EN.webp"
     },
     {
+        "card_id": "A1#6",
         "name": "Metapod",
         "type": "Grass",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -132,9 +138,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_006_EN.webp"
     },
     {
+        "card_id": "A1#7",
         "name": "Butterfree",
         "type": "Grass",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -153,9 +160,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_007_EN.webp"
     },
     {
+        "card_id": "A1#8",
         "name": "Weedle",
         "type": "Grass",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -174,9 +182,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_008_EN.webp"
     },
     {
+        "card_id": "A1#9",
         "name": "Kakuna",
         "type": "Grass",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -195,9 +204,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_009_EN.webp"
     },
     {
+        "card_id": "A1#10",
         "name": "Beedrill",
         "type": "Grass",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -216,9 +226,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_010_EN.webp"
     },
     {
+        "card_id": "A1#11",
         "name": "Oddish",
         "type": "Grass",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -237,9 +248,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_011_EN.webp"
     },
     {
+        "card_id": "A1#12",
         "name": "Gloom",
         "type": "Grass",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -258,9 +270,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_012_EN.webp"
     },
     {
+        "card_id": "A1#13",
         "name": "Vileplume",
         "type": "Grass",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -279,9 +292,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_013_EN.webp"
     },
     {
+        "card_id": "A1#14",
         "name": "Paras",
         "type": "Grass",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -300,9 +314,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_014_EN.webp"
     },
     {
+        "card_id": "A1#15",
         "name": "Parasect",
         "type": "Grass",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -321,9 +336,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_015_EN.webp"
     },
     {
+        "card_id": "A1#16",
         "name": "Venonat",
         "type": "Grass",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -342,9 +358,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_016_EN.webp"
     },
     {
+        "card_id": "A1#17",
         "name": "Venomoth",
         "type": "Grass",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -363,9 +380,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_017_EN.webp"
     },
     {
+        "card_id": "A1#18",
         "name": "Bellsprout",
         "type": "Grass",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -384,9 +402,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_018_EN.webp"
     },
     {
+        "card_id": "A1#19",
         "name": "Weepinbell",
         "type": "Grass",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -405,9 +424,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_019_EN.webp"
     },
     {
+        "card_id": "A1#20",
         "name": "Victreebel",
         "type": "Grass",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -426,9 +446,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_020_EN.webp"
     },
     {
+        "card_id": "A1#21",
         "name": "Exeggcute",
         "type": "Grass",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -447,9 +468,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_021_EN.webp"
     },
     {
+        "card_id": "A1#22",
         "name": "Exeggutor",
         "type": "Grass",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -468,9 +490,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_022_EN.webp"
     },
     {
+        "card_id": "A1#23",
         "name": "Exeggutor ex",
         "type": "Grass",
-        "hp": "160 HP",
+        "hp": "160",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -489,9 +512,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_023_EN.webp"
     },
     {
+        "card_id": "A1#24",
         "name": "Tangela",
         "type": "Grass",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -510,9 +534,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_024_EN.webp"
     },
     {
+        "card_id": "A1#25",
         "name": "Scyther",
         "type": "Grass",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -531,9 +556,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_025_EN.webp"
     },
     {
+        "card_id": "A1#26",
         "name": "Pinsir",
         "type": "Grass",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Basic",
         "attacks": [
             {
@@ -552,9 +578,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_026_EN.webp"
     },
     {
+        "card_id": "A1#27",
         "name": "Cottonee",
         "type": "Grass",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -573,9 +600,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_027_EN.webp"
     },
     {
+        "card_id": "A1#28",
         "name": "Whimsicott",
         "type": "Grass",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -594,9 +622,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_028_EN.webp"
     },
     {
+        "card_id": "A1#29",
         "name": "Petilil",
         "type": "Grass",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -615,9 +644,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_029_EN.webp"
     },
     {
+        "card_id": "A1#30",
         "name": "Lilligant",
         "type": "Grass",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -636,9 +666,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_030_EN.webp"
     },
     {
+        "card_id": "A1#31",
         "name": "Skiddo",
         "type": "Grass",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -657,9 +688,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_031_EN.webp"
     },
     {
+        "card_id": "A1#32",
         "name": "Gogoat",
         "type": "Grass",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -678,9 +710,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_032_EN.webp"
     },
     {
+        "card_id": "A1#33",
         "name": "Charmander",
         "type": "Fire",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -699,9 +732,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_033_EN.webp"
     },
     {
+        "card_id": "A1#34",
         "name": "Charmeleon",
         "type": "Fire",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -720,9 +754,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_034_EN.webp"
     },
     {
+        "card_id": "A1#35",
         "name": "Charizard",
         "type": "Fire",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -741,9 +776,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_035_EN.webp"
     },
     {
+        "card_id": "A1#36",
         "name": "Charizard ex",
         "type": "Fire",
-        "hp": "180 HP",
+        "hp": "180",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -768,9 +804,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_036_EN.webp"
     },
     {
+        "card_id": "A1#37",
         "name": "Vulpix",
         "type": "Fire",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -789,9 +826,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_037_EN.webp"
     },
     {
+        "card_id": "A1#38",
         "name": "Ninetales",
         "type": "Fire",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -810,9 +848,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_038_EN.webp"
     },
     {
+        "card_id": "A1#39",
         "name": "Growlithe",
         "type": "Fire",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -831,9 +870,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_039_EN.webp"
     },
     {
+        "card_id": "A1#40",
         "name": "Arcanine",
         "type": "Fire",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -852,9 +892,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_040_EN.webp"
     },
     {
+        "card_id": "A1#41",
         "name": "Arcanine ex",
         "type": "Fire",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -873,9 +914,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_041_EN.webp"
     },
     {
+        "card_id": "A1#42",
         "name": "Ponyta",
         "type": "Fire",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -894,9 +936,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_042_EN.webp"
     },
     {
+        "card_id": "A1#43",
         "name": "Rapidash",
         "type": "Fire",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -915,9 +958,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_043_EN.webp"
     },
     {
+        "card_id": "A1#44",
         "name": "Magmar",
         "type": "Fire",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -936,9 +980,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_044_EN.webp"
     },
     {
+        "card_id": "A1#45",
         "name": "Flareon",
         "type": "Fire",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -957,9 +1002,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_045_EN.webp"
     },
     {
+        "card_id": "A1#46",
         "name": "Moltres",
         "type": "Fire",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Basic",
         "attacks": [
             {
@@ -978,9 +1024,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_046_EN.webp"
     },
     {
+        "card_id": "A1#47",
         "name": "Moltres ex",
         "type": "Fire",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1005,9 +1052,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_047_EN.webp"
     },
     {
+        "card_id": "A1#48",
         "name": "Heatmor",
         "type": "Fire",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1026,9 +1074,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_048_EN.webp"
     },
     {
+        "card_id": "A1#49",
         "name": "Salandit",
         "type": "Fire",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1047,9 +1096,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_049_EN.webp"
     },
     {
+        "card_id": "A1#50",
         "name": "Salazzle",
         "type": "Fire",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1068,9 +1118,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_050_EN.webp"
     },
     {
+        "card_id": "A1#51",
         "name": "Sizzlipede",
         "type": "Fire",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1089,9 +1140,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_051_EN.webp"
     },
     {
+        "card_id": "A1#52",
         "name": "Centiskorch",
         "type": "Fire",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1110,9 +1162,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_052_EN.webp"
     },
     {
+        "card_id": "A1#53",
         "name": "Squirtle",
         "type": "Water",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1131,9 +1184,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_053_EN.webp"
     },
     {
+        "card_id": "A1#54",
         "name": "Wartortle",
         "type": "Water",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1152,9 +1206,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_054_EN.webp"
     },
     {
+        "card_id": "A1#55",
         "name": "Blastoise",
         "type": "Water",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -1173,9 +1228,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_055_EN.webp"
     },
     {
+        "card_id": "A1#56",
         "name": "Blastoise ex",
         "type": "Water",
-        "hp": "180 HP",
+        "hp": "180",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -1200,9 +1256,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_056_EN.webp"
     },
     {
+        "card_id": "A1#57",
         "name": "Psyduck",
         "type": "Water",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1221,9 +1278,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_057_EN.webp"
     },
     {
+        "card_id": "A1#58",
         "name": "Golduck",
         "type": "Water",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1242,9 +1300,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_058_EN.webp"
     },
     {
+        "card_id": "A1#59",
         "name": "Poliwag",
         "type": "Water",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1263,9 +1322,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_059_EN.webp"
     },
     {
+        "card_id": "A1#60",
         "name": "Poliwhirl",
         "type": "Water",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1284,9 +1344,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_060_EN.webp"
     },
     {
+        "card_id": "A1#61",
         "name": "Poliwrath",
         "type": "Water",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -1305,9 +1366,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_061_EN.webp"
     },
     {
+        "card_id": "A1#62",
         "name": "Tentacool",
         "type": "Water",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1326,9 +1388,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_062_EN.webp"
     },
     {
+        "card_id": "A1#63",
         "name": "Tentacruel",
         "type": "Water",
-        "hp": "110 HP",
+        "hp": "110",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1347,9 +1410,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_063_EN.webp"
     },
     {
+        "card_id": "A1#64",
         "name": "Seel",
         "type": "Water",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1368,9 +1432,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_064_EN.webp"
     },
     {
+        "card_id": "A1#65",
         "name": "Dewgong",
         "type": "Water",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1389,9 +1454,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_065_EN.webp"
     },
     {
+        "card_id": "A1#66",
         "name": "Shellder",
         "type": "Water",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1410,9 +1476,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_066_EN.webp"
     },
     {
+        "card_id": "A1#67",
         "name": "Cloyster",
         "type": "Water",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1431,9 +1498,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_067_EN.webp"
     },
     {
+        "card_id": "A1#68",
         "name": "Krabby",
         "type": "Water",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1452,9 +1520,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_068_EN.webp"
     },
     {
+        "card_id": "A1#69",
         "name": "Kingler",
         "type": "Water",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1473,9 +1542,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_069_EN.webp"
     },
     {
+        "card_id": "A1#70",
         "name": "Horsea",
         "type": "Water",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1494,9 +1564,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_070_EN.webp"
     },
     {
+        "card_id": "A1#71",
         "name": "Seadra",
         "type": "Water",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1515,9 +1586,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_071_EN.webp"
     },
     {
+        "card_id": "A1#72",
         "name": "Goldeen",
         "type": "Water",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1536,9 +1608,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_072_EN.webp"
     },
     {
+        "card_id": "A1#73",
         "name": "Seaking",
         "type": "Water",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1557,9 +1630,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_073_EN.webp"
     },
     {
+        "card_id": "A1#74",
         "name": "Staryu",
         "type": "Water",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1578,9 +1652,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_074_EN.webp"
     },
     {
+        "card_id": "A1#75",
         "name": "Starmie",
         "type": "Water",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1599,9 +1674,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_075_EN.webp"
     },
     {
+        "card_id": "A1#76",
         "name": "Starmie ex",
         "type": "Water",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1620,9 +1696,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_076_EN.webp"
     },
     {
+        "card_id": "A1#77",
         "name": "Magikarp",
         "type": "Water",
-        "hp": "30 HP",
+        "hp": "30",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1641,9 +1718,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_077_EN.webp"
     },
     {
+        "card_id": "A1#78",
         "name": "Gyarados",
         "type": "Water",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1662,9 +1740,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_078_EN.webp"
     },
     {
+        "card_id": "A1#79",
         "name": "Lapras",
         "type": "Water",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1683,9 +1762,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_079_EN.webp"
     },
     {
+        "card_id": "A1#80",
         "name": "Vaporeon",
         "type": "Water",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1704,9 +1784,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_080_EN.webp"
     },
     {
+        "card_id": "A1#81",
         "name": "Omanyte",
         "type": "Water",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1725,9 +1806,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_081_EN.webp"
     },
     {
+        "card_id": "A1#82",
         "name": "Omastar",
         "type": "Water",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -1746,9 +1828,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_082_EN.webp"
     },
     {
+        "card_id": "A1#83",
         "name": "Articuno",
         "type": "Water",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1767,9 +1850,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_083_EN.webp"
     },
     {
+        "card_id": "A1#84",
         "name": "Articuno ex",
         "type": "Water",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1794,9 +1878,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_084_EN.webp"
     },
     {
+        "card_id": "A1#85",
         "name": "Ducklett",
         "type": "Water",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1815,9 +1900,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_085_EN.webp"
     },
     {
+        "card_id": "A1#86",
         "name": "Swanna",
         "type": "Water",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1836,9 +1922,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_086_EN.webp"
     },
     {
+        "card_id": "A1#87",
         "name": "Froakie",
         "type": "Water",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1857,9 +1944,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_087_EN.webp"
     },
     {
+        "card_id": "A1#88",
         "name": "Frogadier",
         "type": "Water",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1878,9 +1966,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_088_EN.webp"
     },
     {
+        "card_id": "A1#89",
         "name": "Greninja",
         "type": "Water",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -1899,9 +1988,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_089_EN.webp"
     },
     {
+        "card_id": "A1#90",
         "name": "Pyukumuku",
         "type": "Water",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1920,9 +2010,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_090_EN.webp"
     },
     {
+        "card_id": "A1#91",
         "name": "Bruxish",
         "type": "Water",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1941,9 +2032,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_091_EN.webp"
     },
     {
+        "card_id": "A1#92",
         "name": "Snom",
         "type": "Water",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -1962,9 +2054,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_092_EN.webp"
     },
     {
+        "card_id": "A1#93",
         "name": "Frosmoth",
         "type": "Water",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -1983,9 +2076,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_093_EN.webp"
     },
     {
+        "card_id": "A1#94",
         "name": "Pikachu",
         "type": "Lightning",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2004,9 +2098,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_094_EN.webp"
     },
     {
+        "card_id": "A1#95",
         "name": "Raichu",
         "type": "Lightning",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2025,9 +2120,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_095_EN.webp"
     },
     {
+        "card_id": "A1#96",
         "name": "Pikachu ex",
         "type": "Lightning",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2046,9 +2142,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_096_EN.webp"
     },
     {
+        "card_id": "A1#97",
         "name": "Magnemite",
         "type": "Lightning",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2067,9 +2164,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_097_EN.webp"
     },
     {
+        "card_id": "A1#98",
         "name": "Magneton",
         "type": "Lightning",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2088,9 +2186,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_098_EN.webp"
     },
     {
+        "card_id": "A1#99",
         "name": "Voltorb",
         "type": "Lightning",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2109,9 +2208,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_099_EN.webp"
     },
     {
+        "card_id": "A1#100",
         "name": "Electrode",
         "type": "Lightning",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2130,9 +2230,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_100_EN.webp"
     },
     {
+        "card_id": "A1#101",
         "name": "Electabuzz",
         "type": "Lightning",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2151,9 +2252,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_101_EN.webp"
     },
     {
+        "card_id": "A1#102",
         "name": "Jolteon",
         "type": "Lightning",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2172,9 +2274,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_102_EN.webp"
     },
     {
+        "card_id": "A1#103",
         "name": "Zapdos",
         "type": "Lightning",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2193,9 +2296,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_103_EN.webp"
     },
     {
+        "card_id": "A1#104",
         "name": "Zapdos ex",
         "type": "Lightning",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2220,9 +2324,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_104_EN.webp"
     },
     {
+        "card_id": "A1#105",
         "name": "Blitzle",
         "type": "Lightning",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2241,9 +2346,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_105_EN.webp"
     },
     {
+        "card_id": "A1#106",
         "name": "Zebstrika",
         "type": "Lightning",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2262,9 +2368,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_106_EN.webp"
     },
     {
+        "card_id": "A1#107",
         "name": "Tynamo",
         "type": "Lightning",
-        "hp": "30 HP",
+        "hp": "30",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2283,9 +2390,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_107_EN.webp"
     },
     {
+        "card_id": "A1#108",
         "name": "Eelektrik",
         "type": "Lightning",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2304,9 +2412,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_108_EN.webp"
     },
     {
+        "card_id": "A1#109",
         "name": "Eelektross",
         "type": "Lightning",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -2325,9 +2434,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_109_EN.webp"
     },
     {
+        "card_id": "A1#110",
         "name": "Helioptile",
         "type": "Lightning",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2346,9 +2456,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_110_EN.webp"
     },
     {
+        "card_id": "A1#111",
         "name": "Heliolisk",
         "type": "Lightning",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2367,9 +2478,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_111_EN.webp"
     },
     {
+        "card_id": "A1#112",
         "name": "Pincurchin",
         "type": "Lightning",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2388,9 +2500,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_112_EN.webp"
     },
     {
+        "card_id": "A1#113",
         "name": "Clefairy",
         "type": "Psychic",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2409,9 +2522,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_113_EN.webp"
     },
     {
+        "card_id": "A1#114",
         "name": "Clefable",
         "type": "Psychic",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2430,9 +2544,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_114_EN.webp"
     },
     {
+        "card_id": "A1#115",
         "name": "Abra",
         "type": "Psychic",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2451,9 +2566,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_115_EN.webp"
     },
     {
+        "card_id": "A1#116",
         "name": "Kadabra",
         "type": "Psychic",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2472,9 +2588,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_116_EN.webp"
     },
     {
+        "card_id": "A1#117",
         "name": "Alakazam",
         "type": "Psychic",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -2493,9 +2610,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_117_EN.webp"
     },
     {
+        "card_id": "A1#118",
         "name": "Slowpoke",
         "type": "Psychic",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2514,9 +2632,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_118_EN.webp"
     },
     {
+        "card_id": "A1#119",
         "name": "Slowbro",
         "type": "Psychic",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2535,9 +2654,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_119_EN.webp"
     },
     {
+        "card_id": "A1#120",
         "name": "Gastly",
         "type": "Psychic",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2556,9 +2676,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_120_EN.webp"
     },
     {
+        "card_id": "A1#121",
         "name": "Haunter",
         "type": "Psychic",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2577,9 +2698,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_121_EN.webp"
     },
     {
+        "card_id": "A1#122",
         "name": "Gengar",
         "type": "Psychic",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -2598,9 +2720,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_122_EN.webp"
     },
     {
+        "card_id": "A1#123",
         "name": "Gengar ex",
         "type": "Psychic",
-        "hp": "170 HP",
+        "hp": "170",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -2619,9 +2742,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_123_EN.webp"
     },
     {
+        "card_id": "A1#124",
         "name": "Drowzee",
         "type": "Psychic",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2640,9 +2764,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_124_EN.webp"
     },
     {
+        "card_id": "A1#125",
         "name": "Hypno",
         "type": "Psychic",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2661,9 +2786,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_125_EN.webp"
     },
     {
+        "card_id": "A1#126",
         "name": "Mr. Mime",
         "type": "Psychic",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2682,9 +2808,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_126_EN.webp"
     },
     {
+        "card_id": "A1#127",
         "name": "Jynx",
         "type": "Psychic",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2703,9 +2830,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_127_EN.webp"
     },
     {
+        "card_id": "A1#128",
         "name": "Mewtwo",
         "type": "Psychic",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2724,9 +2852,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_128_EN.webp"
     },
     {
+        "card_id": "A1#129",
         "name": "Mewtwo ex",
         "type": "Psychic",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2751,9 +2880,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_129_EN.webp"
     },
     {
+        "card_id": "A1#130",
         "name": "Ralts",
         "type": "Psychic",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2772,9 +2902,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_130_EN.webp"
     },
     {
+        "card_id": "A1#131",
         "name": "Kirlia",
         "type": "Psychic",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2793,9 +2924,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_131_EN.webp"
     },
     {
+        "card_id": "A1#132",
         "name": "Gardevoir",
         "type": "Psychic",
-        "hp": "110 HP",
+        "hp": "110",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -2814,9 +2946,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_132_EN.webp"
     },
     {
+        "card_id": "A1#133",
         "name": "Woobat",
         "type": "Psychic",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2835,9 +2968,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_133_EN.webp"
     },
     {
+        "card_id": "A1#134",
         "name": "Swoobat",
         "type": "Psychic",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2856,9 +2990,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_134_EN.webp"
     },
     {
+        "card_id": "A1#135",
         "name": "Golett",
         "type": "Psychic",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2877,9 +3012,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_135_EN.webp"
     },
     {
+        "card_id": "A1#136",
         "name": "Golurk",
         "type": "Psychic",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2898,9 +3034,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_136_EN.webp"
     },
     {
+        "card_id": "A1#137",
         "name": "Sandshrew",
         "type": "Fighting",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2919,9 +3056,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_137_EN.webp"
     },
     {
+        "card_id": "A1#138",
         "name": "Sandslash",
         "type": "Fighting",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2940,9 +3078,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_138_EN.webp"
     },
     {
+        "card_id": "A1#139",
         "name": "Diglett",
         "type": "Fighting",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -2961,9 +3100,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_139_EN.webp"
     },
     {
+        "card_id": "A1#140",
         "name": "Dugtrio",
         "type": "Fighting",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -2982,9 +3122,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_140_EN.webp"
     },
     {
+        "card_id": "A1#141",
         "name": "Mankey",
         "type": "Fighting",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3003,9 +3144,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_141_EN.webp"
     },
     {
+        "card_id": "A1#142",
         "name": "Primeape",
         "type": "Fighting",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3024,9 +3166,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_142_EN.webp"
     },
     {
+        "card_id": "A1#143",
         "name": "Machop",
         "type": "Fighting",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3045,9 +3188,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_143_EN.webp"
     },
     {
+        "card_id": "A1#144",
         "name": "Machoke",
         "type": "Fighting",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3066,9 +3210,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_144_EN.webp"
     },
     {
+        "card_id": "A1#145",
         "name": "Machamp",
         "type": "Fighting",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -3087,9 +3232,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_145_EN.webp"
     },
     {
+        "card_id": "A1#146",
         "name": "Machamp ex",
         "type": "Fighting",
-        "hp": "180 HP",
+        "hp": "180",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -3108,9 +3254,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_146_EN.webp"
     },
     {
+        "card_id": "A1#147",
         "name": "Geodude",
         "type": "Fighting",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3129,9 +3276,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_147_EN.webp"
     },
     {
+        "card_id": "A1#148",
         "name": "Graveler",
         "type": "Fighting",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3150,9 +3298,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_148_EN.webp"
     },
     {
+        "card_id": "A1#149",
         "name": "Golem",
         "type": "Fighting",
-        "hp": "160 HP",
+        "hp": "160",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -3171,9 +3320,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_149_EN.webp"
     },
     {
+        "card_id": "A1#150",
         "name": "Onix",
         "type": "Fighting",
-        "hp": "110 HP",
+        "hp": "110",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3192,9 +3342,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_150_EN.webp"
     },
     {
+        "card_id": "A1#151",
         "name": "Cubone",
         "type": "Fighting",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3213,9 +3364,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_151_EN.webp"
     },
     {
+        "card_id": "A1#152",
         "name": "Marowak",
         "type": "Fighting",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3234,9 +3386,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_152_EN.webp"
     },
     {
+        "card_id": "A1#153",
         "name": "Marowak ex",
         "type": "Fighting",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3255,9 +3408,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_153_EN.webp"
     },
     {
+        "card_id": "A1#154",
         "name": "Hitmonlee",
         "type": "Fighting",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3276,9 +3430,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_154_EN.webp"
     },
     {
+        "card_id": "A1#155",
         "name": "Hitmonchan",
         "type": "Fighting",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3297,9 +3452,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_155_EN.webp"
     },
     {
+        "card_id": "A1#156",
         "name": "Rhyhorn",
         "type": "Fighting",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3318,9 +3474,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_156_EN.webp"
     },
     {
+        "card_id": "A1#157",
         "name": "Rhydon",
         "type": "Fighting",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3339,9 +3496,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_157_EN.webp"
     },
     {
+        "card_id": "A1#158",
         "name": "Kabuto",
         "type": "Fighting",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3360,9 +3518,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_158_EN.webp"
     },
     {
+        "card_id": "A1#159",
         "name": "Kabutops",
         "type": "Fighting",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -3381,9 +3540,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_159_EN.webp"
     },
     {
+        "card_id": "A1#160",
         "name": "Mienfoo",
         "type": "Fighting",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3402,9 +3562,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_160_EN.webp"
     },
     {
+        "card_id": "A1#161",
         "name": "Mienshao",
         "type": "Fighting",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3423,9 +3584,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_161_EN.webp"
     },
     {
+        "card_id": "A1#162",
         "name": "Clobbopus",
         "type": "Fighting",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3444,9 +3606,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_162_EN.webp"
     },
     {
+        "card_id": "A1#163",
         "name": "Grapploct",
         "type": "Fighting",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3465,9 +3628,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_163_EN.webp"
     },
     {
+        "card_id": "A1#164",
         "name": "Ekans",
         "type": "Darkness",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3486,9 +3650,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_164_EN.webp"
     },
     {
+        "card_id": "A1#165",
         "name": "Arbok",
         "type": "Darkness",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3507,9 +3672,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_165_EN.webp"
     },
     {
+        "card_id": "A1#166",
         "name": "Nidoran♀",
         "type": "Darkness",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3528,9 +3694,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_166_EN.webp"
     },
     {
+        "card_id": "A1#167",
         "name": "Nidorina",
         "type": "Darkness",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3549,9 +3716,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_167_EN.webp"
     },
     {
+        "card_id": "A1#168",
         "name": "Nidoqueen",
         "type": "Darkness",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -3570,9 +3738,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_168_EN.webp"
     },
     {
+        "card_id": "A1#169",
         "name": "Nidoran♂",
         "type": "Darkness",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3591,9 +3760,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_169_EN.webp"
     },
     {
+        "card_id": "A1#170",
         "name": "Nidorino",
         "type": "Darkness",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3612,9 +3782,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_170_EN.webp"
     },
     {
+        "card_id": "A1#171",
         "name": "Nidoking",
         "type": "Darkness",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -3633,9 +3804,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_171_EN.webp"
     },
     {
+        "card_id": "A1#172",
         "name": "Zubat",
         "type": "Darkness",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3654,9 +3826,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_172_EN.webp"
     },
     {
+        "card_id": "A1#173",
         "name": "Golbat",
         "type": "Darkness",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3675,9 +3848,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_173_EN.webp"
     },
     {
+        "card_id": "A1#174",
         "name": "Grimer",
         "type": "Darkness",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3696,9 +3870,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_174_EN.webp"
     },
     {
+        "card_id": "A1#175",
         "name": "Muk",
         "type": "Darkness",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3717,9 +3892,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_175_EN.webp"
     },
     {
+        "card_id": "A1#176",
         "name": "Koffing",
         "type": "Darkness",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3738,9 +3914,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_176_EN.webp"
     },
     {
+        "card_id": "A1#177",
         "name": "Weezing",
         "type": "Darkness",
-        "hp": "110 HP",
+        "hp": "110",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3759,9 +3936,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_177_EN.webp"
     },
     {
+        "card_id": "A1#178",
         "name": "Mawile",
         "type": "Metal",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3780,9 +3958,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_178_EN.webp"
     },
     {
+        "card_id": "A1#179",
         "name": "Pawniard",
         "type": "Metal",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3801,9 +3980,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_179_EN.webp"
     },
     {
+        "card_id": "A1#180",
         "name": "Bisharp",
         "type": "Metal",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3822,9 +4002,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_180_EN.webp"
     },
     {
+        "card_id": "A1#181",
         "name": "Meltan",
         "type": "Metal",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3843,9 +4024,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_181_EN.webp"
     },
     {
+        "card_id": "A1#182",
         "name": "Melmetal",
         "type": "Metal",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3864,9 +4046,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_182_EN.webp"
     },
     {
+        "card_id": "A1#183",
         "name": "Dratini",
         "type": "Dragon",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3885,9 +4068,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_183_EN.webp"
     },
     {
+        "card_id": "A1#184",
         "name": "Dragonair",
         "type": "Dragon",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3906,9 +4090,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_184_EN.webp"
     },
     {
+        "card_id": "A1#185",
         "name": "Dragonite",
         "type": "Dragon",
-        "hp": "160 HP",
+        "hp": "160",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -3927,9 +4112,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_185_EN.webp"
     },
     {
+        "card_id": "A1#186",
         "name": "Pidgey",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -3948,9 +4134,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_186_EN.webp"
     },
     {
+        "card_id": "A1#187",
         "name": "Pidgeotto",
         "type": "Colorless",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -3969,9 +4156,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_187_EN.webp"
     },
     {
+        "card_id": "A1#188",
         "name": "Pidgeot",
         "type": "Colorless",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -3990,9 +4178,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_188_EN.webp"
     },
     {
+        "card_id": "A1#189",
         "name": "Rattata",
         "type": "Colorless",
-        "hp": "40 HP",
+        "hp": "40",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4011,9 +4200,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_189_EN.webp"
     },
     {
+        "card_id": "A1#190",
         "name": "Raticate",
         "type": "Colorless",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4032,9 +4222,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_190_EN.webp"
     },
     {
+        "card_id": "A1#191",
         "name": "Spearow",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4053,9 +4244,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_191_EN.webp"
     },
     {
+        "card_id": "A1#192",
         "name": "Fearow",
         "type": "Colorless",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4074,9 +4266,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_192_EN.webp"
     },
     {
+        "card_id": "A1#193",
         "name": "Jigglypuff",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4095,9 +4288,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_193_EN.webp"
     },
     {
+        "card_id": "A1#194",
         "name": "Wigglytuff",
         "type": "Colorless",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4116,9 +4310,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_194_EN.webp"
     },
     {
+        "card_id": "A1#195",
         "name": "Wigglytuff ex",
         "type": "Colorless",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4137,9 +4332,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_195_EN.webp"
     },
     {
+        "card_id": "A1#196",
         "name": "Meowth",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4158,9 +4354,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_196_EN.webp"
     },
     {
+        "card_id": "A1#197",
         "name": "Persian",
         "type": "Colorless",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4179,9 +4376,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_197_EN.webp"
     },
     {
+        "card_id": "A1#198",
         "name": "Farfetch'd",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4200,9 +4398,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_198_EN.webp"
     },
     {
+        "card_id": "A1#199",
         "name": "Doduo",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4221,9 +4420,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_199_EN.webp"
     },
     {
+        "card_id": "A1#200",
         "name": "Dodrio",
         "type": "Colorless",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4242,9 +4442,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_200_EN.webp"
     },
     {
+        "card_id": "A1#201",
         "name": "Lickitung",
         "type": "Colorless",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4263,9 +4464,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_201_EN.webp"
     },
     {
+        "card_id": "A1#202",
         "name": "Chansey",
         "type": "Colorless",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4284,9 +4486,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_202_EN.webp"
     },
     {
+        "card_id": "A1#203",
         "name": "Kangaskhan",
         "type": "Colorless",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4305,9 +4508,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_203_EN.webp"
     },
     {
+        "card_id": "A1#204",
         "name": "Tauros",
         "type": "Colorless",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4326,9 +4530,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_204_EN.webp"
     },
     {
+        "card_id": "A1#205",
         "name": "Ditto",
         "type": "Colorless",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4347,9 +4552,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_205_EN.webp"
     },
     {
+        "card_id": "A1#206",
         "name": "Eevee",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4368,9 +4574,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_206_EN.webp"
     },
     {
+        "card_id": "A1#207",
         "name": "Eevee",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4389,9 +4596,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_207_EN.webp"
     },
     {
+        "card_id": "A1#208",
         "name": "Eevee",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4410,9 +4618,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_208_EN.webp"
     },
     {
+        "card_id": "A1#209",
         "name": "Porygon",
         "type": "Colorless",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4431,9 +4640,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_209_EN.webp"
     },
     {
+        "card_id": "A1#210",
         "name": "Aerodactyl",
         "type": "Colorless",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4452,9 +4662,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_210_EN.webp"
     },
     {
+        "card_id": "A1#211",
         "name": "Snorlax",
         "type": "Colorless",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4473,9 +4684,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_211_EN.webp"
     },
     {
+        "card_id": "A1#212",
         "name": "Minccino",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4494,9 +4706,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_212_EN.webp"
     },
     {
+        "card_id": "A1#213",
         "name": "Cinccino",
         "type": "Colorless",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4515,9 +4728,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_213_EN.webp"
     },
     {
+        "card_id": "A1#214",
         "name": "Wooloo",
         "type": "Colorless",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4536,9 +4750,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_214_EN.webp"
     },
     {
+        "card_id": "A1#215",
         "name": "Dubwool",
         "type": "Colorless",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4557,6 +4772,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_215_EN.webp"
     },
     {
+        "card_id": "A1#216",
         "name": "Helix Fossil",
         "type": "N/A",
         "hp": "N/A",
@@ -4569,6 +4785,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_216_EN.webp"
     },
     {
+        "card_id": "A1#217",
         "name": "Dome Fossil",
         "type": "N/A",
         "hp": "N/A",
@@ -4581,6 +4798,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_217_EN.webp"
     },
     {
+        "card_id": "A1#218",
         "name": "Old Amber",
         "type": "N/A",
         "hp": "N/A",
@@ -4593,6 +4811,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_218_EN.webp"
     },
     {
+        "card_id": "A1#219",
         "name": "Erika",
         "type": "N/A",
         "hp": "N/A",
@@ -4605,6 +4824,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_219_EN.webp"
     },
     {
+        "card_id": "A1#220",
         "name": "Misty",
         "type": "N/A",
         "hp": "N/A",
@@ -4617,6 +4837,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_220_EN.webp"
     },
     {
+        "card_id": "A1#221",
         "name": "Blaine",
         "type": "N/A",
         "hp": "N/A",
@@ -4629,6 +4850,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_221_EN.webp"
     },
     {
+        "card_id": "A1#222",
         "name": "Koga",
         "type": "N/A",
         "hp": "N/A",
@@ -4641,6 +4863,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_222_EN.webp"
     },
     {
+        "card_id": "A1#223",
         "name": "Giovanni",
         "type": "N/A",
         "hp": "N/A",
@@ -4653,6 +4876,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_223_EN.webp"
     },
     {
+        "card_id": "A1#224",
         "name": "Brock",
         "type": "N/A",
         "hp": "N/A",
@@ -4665,6 +4889,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_224_EN.webp"
     },
     {
+        "card_id": "A1#225",
         "name": "Sabrina",
         "type": "N/A",
         "hp": "N/A",
@@ -4677,6 +4902,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_225_EN.webp"
     },
     {
+        "card_id": "A1#226",
         "name": "Lt. Surge",
         "type": "N/A",
         "hp": "N/A",
@@ -4689,9 +4915,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_226_EN.webp"
     },
     {
+        "card_id": "A1#227",
         "name": "Bulbasaur",
         "type": "Grass",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4710,9 +4937,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_227_EN.webp"
     },
     {
+        "card_id": "A1#228",
         "name": "Gloom",
         "type": "Grass",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4731,9 +4959,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_228_EN.webp"
     },
     {
+        "card_id": "A1#229",
         "name": "Pinsir",
         "type": "Grass",
-        "hp": "90 HP",
+        "hp": "90",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4752,9 +4981,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_229_EN.webp"
     },
     {
+        "card_id": "A1#230",
         "name": "Charmander",
         "type": "Fire",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4773,9 +5003,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_230_EN.webp"
     },
     {
+        "card_id": "A1#231",
         "name": "Rapidash",
         "type": "Fire",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4794,9 +5025,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_231_EN.webp"
     },
     {
+        "card_id": "A1#232",
         "name": "Squirtle",
         "type": "Water",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4815,9 +5047,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_232_EN.webp"
     },
     {
+        "card_id": "A1#233",
         "name": "Gyarados",
         "type": "Water",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4836,9 +5069,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_233_EN.webp"
     },
     {
+        "card_id": "A1#234",
         "name": "Lapras",
         "type": "Water",
-        "hp": "100 HP",
+        "hp": "100",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4857,9 +5091,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_234_EN.webp"
     },
     {
+        "card_id": "A1#235",
         "name": "Electrode",
         "type": "Lightning",
-        "hp": "80 HP",
+        "hp": "80",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -4878,9 +5113,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_235_EN.webp"
     },
     {
+        "card_id": "A1#236",
         "name": "Alakazam",
         "type": "Psychic",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -4899,9 +5135,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_236_EN.webp"
     },
     {
+        "card_id": "A1#237",
         "name": "Slowpoke",
         "type": "Psychic",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4920,9 +5157,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_237_EN.webp"
     },
     {
+        "card_id": "A1#238",
         "name": "Diglett",
         "type": "Fighting",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4941,9 +5179,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_238_EN.webp"
     },
     {
+        "card_id": "A1#239",
         "name": "Cubone",
         "type": "Fighting",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -4962,9 +5201,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_239_EN.webp"
     },
     {
+        "card_id": "A1#240",
         "name": "Nidoqueen",
         "type": "Darkness",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -4983,9 +5223,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_240_EN.webp"
     },
     {
+        "card_id": "A1#241",
         "name": "Nidoking",
         "type": "Darkness",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5004,9 +5245,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_241_EN.webp"
     },
     {
+        "card_id": "A1#242",
         "name": "Golbat",
         "type": "Darkness",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -5025,9 +5267,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_242_EN.webp"
     },
     {
+        "card_id": "A1#243",
         "name": "Weezing",
         "type": "Darkness",
-        "hp": "110 HP",
+        "hp": "110",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -5046,9 +5289,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_243_EN.webp"
     },
     {
+        "card_id": "A1#244",
         "name": "Dragonite",
         "type": "Dragon",
-        "hp": "160 HP",
+        "hp": "160",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5067,9 +5311,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_244_EN.webp"
     },
     {
+        "card_id": "A1#245",
         "name": "Pidgeot",
         "type": "Colorless",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5088,9 +5333,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_245_EN.webp"
     },
     {
+        "card_id": "A1#246",
         "name": "Meowth",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5109,9 +5355,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_246_EN.webp"
     },
     {
+        "card_id": "A1#247",
         "name": "Ditto",
         "type": "Colorless",
-        "hp": "70 HP",
+        "hp": "70",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5130,9 +5377,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_247_EN.webp"
     },
     {
+        "card_id": "A1#248",
         "name": "Eevee",
         "type": "Colorless",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5151,9 +5399,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_248_EN.webp"
     },
     {
+        "card_id": "A1#249",
         "name": "Porygon",
         "type": "Colorless",
-        "hp": "50 HP",
+        "hp": "50",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5172,9 +5421,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_249_EN.webp"
     },
     {
+        "card_id": "A1#250",
         "name": "Snorlax",
         "type": "Colorless",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5193,9 +5443,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_250_EN.webp"
     },
     {
+        "card_id": "A1#251",
         "name": "Venusaur ex",
         "type": "Grass",
-        "hp": "190 HP",
+        "hp": "190",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5220,9 +5471,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_251_EN.webp"
     },
     {
+        "card_id": "A1#252",
         "name": "Exeggutor ex",
         "type": "Grass",
-        "hp": "160 HP",
+        "hp": "160",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -5241,9 +5493,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_252_EN.webp"
     },
     {
+        "card_id": "A1#253",
         "name": "Charizard ex",
         "type": "Fire",
-        "hp": "180 HP",
+        "hp": "180",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5268,9 +5521,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_253_EN.webp"
     },
     {
+        "card_id": "A1#254",
         "name": "Arcanine ex",
         "type": "Fire",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -5289,9 +5543,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_254_EN.webp"
     },
     {
+        "card_id": "A1#255",
         "name": "Moltres ex",
         "type": "Fire",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5316,9 +5571,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_255_EN.webp"
     },
     {
+        "card_id": "A1#256",
         "name": "Blastoise ex",
         "type": "Water",
-        "hp": "180 HP",
+        "hp": "180",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5343,9 +5599,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_256_EN.webp"
     },
     {
+        "card_id": "A1#257",
         "name": "Starmie ex",
         "type": "Water",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -5364,9 +5621,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_257_EN.webp"
     },
     {
+        "card_id": "A1#258",
         "name": "Articuno ex",
         "type": "Water",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5391,9 +5649,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_258_EN.webp"
     },
     {
+        "card_id": "A1#259",
         "name": "Pikachu ex",
         "type": "Lightning",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5412,9 +5671,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_259_EN.webp"
     },
     {
+        "card_id": "A1#260",
         "name": "Zapdos ex",
         "type": "Lightning",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5439,9 +5699,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_260_EN.webp"
     },
     {
+        "card_id": "A1#261",
         "name": "Gengar ex",
         "type": "Psychic",
-        "hp": "170 HP",
+        "hp": "170",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5460,9 +5721,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_261_EN.webp"
     },
     {
+        "card_id": "A1#262",
         "name": "Mewtwo ex",
         "type": "Psychic",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5487,9 +5749,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_262_EN.webp"
     },
     {
+        "card_id": "A1#263",
         "name": "Machamp ex",
         "type": "Fighting",
-        "hp": "180 HP",
+        "hp": "180",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5508,9 +5771,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_263_EN.webp"
     },
     {
+        "card_id": "A1#264",
         "name": "Marowak ex",
         "type": "Fighting",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -5529,9 +5793,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_264_EN.webp"
     },
     {
+        "card_id": "A1#265",
         "name": "Wigglytuff ex",
         "type": "Colorless",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -5550,6 +5815,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_265_EN.webp"
     },
     {
+        "card_id": "A1#266",
         "name": "Erika",
         "type": "N/A",
         "hp": "N/A",
@@ -5562,6 +5828,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_266_EN.webp"
     },
     {
+        "card_id": "A1#267",
         "name": "Misty",
         "type": "N/A",
         "hp": "N/A",
@@ -5574,6 +5841,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_267_EN.webp"
     },
     {
+        "card_id": "A1#268",
         "name": "Blaine",
         "type": "N/A",
         "hp": "N/A",
@@ -5586,6 +5854,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_268_EN.webp"
     },
     {
+        "card_id": "A1#269",
         "name": "Koga",
         "type": "N/A",
         "hp": "N/A",
@@ -5598,6 +5867,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_269_EN.webp"
     },
     {
+        "card_id": "A1#270",
         "name": "Giovanni",
         "type": "N/A",
         "hp": "N/A",
@@ -5610,6 +5880,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_270_EN.webp"
     },
     {
+        "card_id": "A1#271",
         "name": "Brock",
         "type": "N/A",
         "hp": "N/A",
@@ -5622,6 +5893,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_271_EN.webp"
     },
     {
+        "card_id": "A1#272",
         "name": "Sabrina",
         "type": "N/A",
         "hp": "N/A",
@@ -5634,6 +5906,7 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_272_EN.webp"
     },
     {
+        "card_id": "A1#273",
         "name": "Lt. Surge",
         "type": "N/A",
         "hp": "N/A",
@@ -5646,9 +5919,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_273_EN.webp"
     },
     {
+        "card_id": "A1#274",
         "name": "Moltres ex",
         "type": "Fire",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5673,9 +5947,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_274_EN.webp"
     },
     {
+        "card_id": "A1#275",
         "name": "Articuno ex",
         "type": "Water",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5700,9 +5975,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_275_EN.webp"
     },
     {
+        "card_id": "A1#276",
         "name": "Zapdos ex",
         "type": "Lightning",
-        "hp": "130 HP",
+        "hp": "130",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5727,9 +6003,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_276_EN.webp"
     },
     {
+        "card_id": "A1#277",
         "name": "Gengar ex",
         "type": "Psychic",
-        "hp": "170 HP",
+        "hp": "170",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5748,9 +6025,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_277_EN.webp"
     },
     {
+        "card_id": "A1#278",
         "name": "Machamp ex",
         "type": "Fighting",
-        "hp": "180 HP",
+        "hp": "180",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5769,9 +6047,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_278_EN.webp"
     },
     {
+        "card_id": "A1#279",
         "name": "Wigglytuff ex",
         "type": "Colorless",
-        "hp": "140 HP",
+        "hp": "140",
         "card_type": "Stage 1",
         "attacks": [
             {
@@ -5790,9 +6069,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_279_EN.webp"
     },
     {
+        "card_id": "A1#280",
         "name": "Charizard ex",
         "type": "Fire",
-        "hp": "180 HP",
+        "hp": "180",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5817,9 +6097,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_280_EN.webp"
     },
     {
+        "card_id": "A1#281",
         "name": "Pikachu ex",
         "type": "Lightning",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5838,9 +6119,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_281_EN.webp"
     },
     {
+        "card_id": "A1#282",
         "name": "Mewtwo ex",
         "type": "Psychic",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5865,9 +6147,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_282_EN.webp"
     },
     {
+        "card_id": "A1#283",
         "name": "Mew",
         "type": "Psychic",
-        "hp": "60 HP",
+        "hp": "60",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5886,9 +6169,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_283_EN.webp"
     },
     {
+        "card_id": "A1#284",
         "name": "Charizard ex",
         "type": "Fire",
-        "hp": "180 HP",
+        "hp": "180",
         "card_type": "Stage 2",
         "attacks": [
             {
@@ -5913,9 +6197,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_284_EN.webp"
     },
     {
+        "card_id": "A1#285",
         "name": "Pikachu ex",
         "type": "Lightning",
-        "hp": "120 HP",
+        "hp": "120",
         "card_type": "Basic",
         "attacks": [
             {
@@ -5934,9 +6219,10 @@
         "image_url": "https://limitlesstcg.nyc3.digitaloceanspaces.com/pocket/A1/A1_285_EN.webp"
     },
     {
+        "card_id": "A1#286",
         "name": "Mewtwo ex",
         "type": "Psychic",
-        "hp": "150 HP",
+        "hp": "150",
         "card_type": "Basic",
         "attacks": [
             {

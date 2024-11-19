@@ -63,6 +63,14 @@ def map_attack_cost(cost_elements):
 for card in cards:
     card_info = {}
 
+    # ID della carta
+    card_set_info_section = card.find('div', class_='card-set-info')
+    if card_set_info_section:
+        card_info['card_id'] = card_set_info_section.text.strip().replace(' ', '')
+    else:
+        card_info['card_id'] = 'UnknownID'
+
+
     # Nome della carta
     name_section = card.find('span', class_='card-text-name')
     card_info['name'] = name_section.text.strip() if name_section else 'Unknown'
@@ -70,10 +78,19 @@ for card in cards:
     # Tipo e HP della carta
     type_hp_section = card.find('p', class_='card-text-title')
     if type_hp_section:
+        # Rimuovere il nome della carta e dividere il resto
         content = type_hp_section.text.replace(card_info['name'], '').strip()
+        # Rimuovere i trattini extra e dividere per i rimanenti
         parts = [part.strip() for part in content.split('-') if part.strip()]
-        card_info['type'] = parts[0] if len(parts) >= 2 else 'N/A'
-        card_info['hp'] = parts[1] if len(parts) >= 2 else 'N/A'
+
+        if len(parts) >= 2:
+            card_info['type'] = parts[0]  # Tipo (esempio: "Grass")
+            # Estrazione solo del valore numerico dell'HP
+            card_info['hp'] = re.sub(r'\D', '', parts[1])  # Rimuove tutto tranne i numeri
+        else:
+            card_info['type'] = 'N/A'
+            card_info['hp'] = 'N/A'
+
 
     # Tipo di carta
     card_type_section = card.find('p', class_='card-text-type')
@@ -150,6 +167,7 @@ print(json.dumps(card_data, indent=4, ensure_ascii=False))
 
 # Mostrare i risultati sulla console
 for card in card_data:
+    print(f"Card ID: {card['card_id']}")
     print(f"Name: {card['name']}")
     print(f"Type: {card.get('type', 'N/A')}")
     print(f"HP: {card.get('hp', 'N/A')}")
