@@ -1,0 +1,8 @@
+{
+    "triggerTaskOnSave.tasks": {
+        "Format Code with Black": [
+            "*", // <-- Glob pattern to specify which files should trigger the task
+            // In this case, all files will trigger the task
+        ],
+    }
+}
