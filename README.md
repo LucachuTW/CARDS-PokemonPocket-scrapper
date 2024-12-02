@@ -7,7 +7,7 @@ It then converts this data into JSON and optionally saves it to a CSV file.
 - Scrapes card information from the Pokémon TCG Pocket website.
 - Extracts data like name, type, HP, attacks, weaknesses, and image URLs.
 - Saves the extracted data in JSON format.
-
+- It can be used as an API by https://github.com/LucachuTW/CARDS-PokemonPocket-scrapper/blob/main/pokemon_cards.json
 ## Requirements
 
 This project requires Python 3.x. To run the script, you need to install the following Python packages:
