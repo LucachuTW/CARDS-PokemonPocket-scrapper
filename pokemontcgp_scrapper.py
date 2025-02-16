@@ -65,7 +65,14 @@ crafting_cost = {
 
 FullArt_Rarities = ["☆", "☆☆", "☆☆☆", "Crown Rare"]
 
-packs = ["Pikachu pack", "Charizard pack", "Mewtwo pack", "Mew pack", "Dialga pack", "Palkia pack"]
+packs = [
+    "Pikachu pack",
+    "Charizard pack",
+    "Mewtwo pack",
+    "Mew pack",
+    "Dialga pack",
+    "Palkia pack",
+]
 
 sets = ["A1", "P-A", "A1a", "A2"]
 
@@ -349,7 +356,7 @@ def convert_cards_to_json(start_id, end_id, filename):
 init_time = time.time()
 start_id = 1
 end_id = 286
-filename = "cards_data.json"
+filename = "pokemon_cards.json"
 convert_cards_to_json(start_id, end_id, filename)
 end_time = time.time()
 print(
