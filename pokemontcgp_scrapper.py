@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import re
 import json
 import time
+import os
 
 BASE_URL = "https://pocket.limitlesstcg.com/cards/"
 
@@ -63,11 +64,11 @@ crafting_cost = {
     "♛": 2500,
 }
 
-FullArt_Rarities = ["☆", "☆☆", "☆☆☆", "Crown Rare"]
+FullArt_Rarities = ["☆", "☆☆", "☆☆☆", "Crown Rare"] #TODO aggiungere shiny
 
-packs = ["Pikachu pack", "Charizard pack", "Mewtwo pack", "Mew pack", "Dialga pack", "Palkia pack"]
+packs = ["Pikachu pack", "Charizard pack", "Mewtwo pack", "Mew pack", "Dialga pack", "Palkia pack", "Lunala pack", "Solgaleo pack"]
 
-sets = ["A1", "P-A", "A1a", "A2"]
+sets = ["A1", "P-A", "A1a", "A2", "A2a", "A2b", "A3"]
 
 
 def map_attack_cost(cost_elements):
@@ -299,32 +300,30 @@ def extract_crafting_cost(rarity):
     return crafting_cost[rarity] if rarity in crafting_cost else "Unknown"
 
 
-def iterate_per_set(set_name, start_id, end_id):
-    for i in range(start_id, end_id + 1):
-        url = f"{BASE_URL}{set_name}/{i}"
-        response = requests.get(url)
-        soup = BeautifulSoup(response.content, "html.parser")
-        try:
-            card_info = extract_card_info(soup)
-        except Exception as e:
-            print(f"Error processing card {i}: {e}")
-            continue
+# Mappa set -> numero massimo di carte
+set_card_counts = {
+    "A1": 286,
+    "P-A": 73,
+    "A1a": 86,
+    "A2": 207,
+    "A2a": 96,
+    "A2b": 111,
+    "A3": 239,
+    # aggiungi altri set se necessario
+}
 
-        for key, value in card_info.items():
-            print(f"{key}: {value}")
-        print("-" * 40)
-
-
-def iterate_all_sets():
-    for set_name in sets:
-        iterate_per_set(set_name, 1, 285)
-
-
-def convert_cards_to_json(start_id, end_id, filename):
+def convert_cards_to_json(filename):
     cards = []
+    existing_ids = set()
+    if os.path.exists(filename):
+        with open(filename, "r", encoding="utf-8") as file:
+            cards = json.load(file)
+            existing_ids = set((card.get("set_details", ""), card.get("id", "")) for card in cards)
     error_tracker = 0
-    for set_name in sets:
-        for i in range(start_id, end_id + 1):
+    for set_name, end_id in set_card_counts.items():
+        for i in range(1, end_id + 1):
+            if (set_name, str(i)) in existing_ids:
+                continue
             url = f"{BASE_URL}{set_name}/{i}"
             response = requests.get(url)
             soup = BeautifulSoup(response.content, "html.parser")
@@ -339,20 +338,14 @@ def convert_cards_to_json(start_id, end_id, filename):
                     print(f"Finished on card {i}")
                     break
                 continue
-
             cards.append(card_info)
-    with open(filename, "w") as file:
+            existing_ids.add((set_name, card_info.get("id", "")))
+    with open(filename, "w", encoding="utf-8") as file:
         json.dump(cards, file, ensure_ascii=False, indent=4)
 
-
-# Example use
-init_time = time.time()
-start_id = 1
-end_id = 286
-filename = "cards_data.json"
-convert_cards_to_json(start_id, end_id, filename)
-end_time = time.time()
-print(
-    f"Finished downloading cards to {filename}, total time: {
-        end_time - init_time} segundos."
-)
+if __name__ == "__main__":
+    init_time = time.time()
+    filename = "pokemon_cards.json"
+    convert_cards_to_json(filename)
+    end_time = time.time()
+    print(f"Finished downloading cards to {filename}, total time: {end_time - init_time} seconds.")
