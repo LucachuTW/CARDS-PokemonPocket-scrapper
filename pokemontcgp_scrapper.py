@@ -74,7 +74,17 @@ packs = [
     "Palkia pack",
 ]
 
-sets = ["A1", "P-A", "A1a", "A2"]
+sets = [
+    "A1",  # Genetic Apex
+    "A1a",  # Mythical Island
+    "A2",  # Space-Time Smackdown
+    "A2a",  # Triumphant Light
+    "A2b",  # Shining Revelry
+    "A3",  # Celestial Guardians
+    "A3a",  # Extradimensional Crisis
+    "A3b",  # Eevee Grove
+    "P-A",  # Promo-A
+]
 
 
 def map_attack_cost(cost_elements):
