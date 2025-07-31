@@ -83,6 +83,7 @@ sets = [
     "A3",  # Celestial Guardians
     "A3a",  # Extradimensional Crisis
     "A3b",  # Eevee Grove
+    "A4",  # Wisdom of Sea and Sky
     "P-A",  # Promo-A
 ]
 
@@ -394,6 +395,5 @@ iterate_all_sets()
 #convert_cards_to_json(start_id, end_id, filename)
 end_time = time.time()
 print(
-    f"Finished downloading cards to {filename}, total time: {
-        end_time - init_time} segundos."
+    f"Finished downloading cards to {filename}, total time: {end_time - init_time} segundos."
 )
