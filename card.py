@@ -60,6 +60,7 @@ class Card:
         self.setPack()
         self.setAlternateVersions()
         self.setArtist()
+        self.setFlavorText()
         self.setProbabilities()
         self.setCraftingCost()
 
@@ -420,6 +421,7 @@ class Card:
         Returns:
             - None
         """
+        # Will be empty if no alternate versions are found
         self.alternateVersions = []
         versions = self.soup.find_all("tr")
 
@@ -431,19 +433,25 @@ class Card:
             versionText = (
                 versionName.text.replace("\n", "").strip() if versionName else None
             )
-            rarityText = rarityCell.text.strip() if rarityCell else None
 
-            if versionText and rarityText:
+            # Some cards (Promo-A) may not have rarity info
+            rarityText = rarityCell.text.strip() if rarityCell else ""
+
+            if versionText:
                 versionText = " ".join(versionText.split())
-                self.alternateVersions.append(
-                    {
-                        "version": versionText,
-                        "rarity": rarityText if rarityText != "Crown Rare" else "♛",
-                    }
-                )
 
-        if not self.alternateVersions:
-            self.alternateVersions.append({"version": "Unknown", "rarity": "Unknown"})
+                setName, id = versionText.split("#")
+
+                # Do not add the card as an alternate version of itself
+                if setName.strip() not in self.setDetails or int(id.strip()) != self.id:
+
+                    self.alternateVersions.append(
+                        {
+                            "set": setName.strip(),
+                            "id": int(id.strip()),
+                            "rarity": rarityText if rarityText != "Crown Rare" else "♛",
+                        }
+                    )
 
     def setArtist(self) -> None:
         """
@@ -466,6 +474,26 @@ class Card:
                 artist = artistLink.text.strip()
 
         self.artist = artist
+
+    def setFlavorText(self) -> None:
+        """
+        Set the flavor text of the card.
+
+        Args:
+            - None
+
+        Returns:
+            - None
+        """
+        flavorText = ""
+        flavorSection = self.soup.find(
+            "div", class_="card-text-section card-text-flavor"
+        )
+
+        if flavorSection:
+            flavorText = flavorSection.text.strip()
+
+        self.flavorText = flavorText
 
     def setProbabilities(self) -> None:
         """
@@ -525,6 +553,7 @@ class Card:
             "pack": self.pack,
             "alternate_versions": self.alternateVersions,
             "artist": self.artist,
+            "flavorText": self.flavorText,
             "probabilities": self.probabilities,
             "crafting_cost": self.craftingCost,
         }
