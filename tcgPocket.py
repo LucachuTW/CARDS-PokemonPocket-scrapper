@@ -71,10 +71,6 @@ class TGCPocket:
         """
         Get card data from all sets, sorted by id.
 
-        TODO: Sort by the date the set was released
-            and then by the card number in the set,
-            because the id is repeated across sets.
-
         Args:
             - None
 

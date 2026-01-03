@@ -82,6 +82,9 @@ class Set:
             for part in parts:
                 try:
                     date = dateutil.parser.parse(part.strip(), fuzzy=False)
+
+                    # Add one second to make the Promos go first
+                    date = date + dateutil.relativedelta.relativedelta(seconds=1)
                     break
                 except (ValueError, TypeError):
                     continue
@@ -199,8 +202,6 @@ class Set:
     def checkCardCount(self) -> None:
         """
         Check if the number of cards matches the expected card count.
-
-        TODO: Promo-A says 92 when there are 100 cards.
 
         Args:
             - None
