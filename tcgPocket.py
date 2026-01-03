@@ -26,6 +26,7 @@ class TGCPocket:
             - None
         """
         self.setSets()
+        self.setShiny()
 
     def setSets(self) -> None:
         """
@@ -49,6 +50,43 @@ class TGCPocket:
 
             if link:
                 self.sets.append(set.Set(f"{origin}{link['href']}"))
+
+    def setShiny(self) -> None:
+        """
+        Set shiny status for all sets.
+
+        Args:
+            - None
+
+        Returns:
+            - None
+        """
+        # Get the origin URL to use hrefs correctly
+        parsedUrl = urlparse(self.url)
+        origin = f"{parsedUrl.scheme}://{parsedUrl.hostname}"
+
+        shinyUrl = f"{origin}/cards/?q=is:shiny,sfa&show=all"
+
+        response = requests.get(shinyUrl)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        # The cards are in a div with class "card-search-grid"
+        cardsElement = soup.find("div", class_="card-search-grid")
+
+        # Iterate through all card links
+        for card in cardsElement.find_all("a", href=True):
+            cardUrl = f"{origin}{card['href']}"
+            setUrl = "/".join(cardUrl.split("/")[:-1])
+
+            # Find the card with the matching URL and set shiny to True
+            for setInstance in self.sets:
+                if setInstance.url == setUrl:
+                    for cardInstance in setInstance.cards:
+                        if cardInstance.url == cardUrl:
+                            cardInstance.shiny = True
+                            # No need to continue searching
+                            break
 
     def getCardData(self) -> list[dict]:
         """

@@ -55,6 +55,7 @@ class Card:
         self.setRetreat()
         self.setRarity()
         self.setFullArt()
+        self.setShiny()
         self.setExStatus()
         self.setSetDetails()
         self.setPack()
@@ -362,6 +363,22 @@ class Card:
         """
         self.ex = "ex" in self.name.split(" ")
 
+    def setShiny(self) -> None:
+        """
+        Set the shiny status of the card.
+
+        This is not detected in each card, it is changed
+        afterwards based on the information of:
+        https://pocket.limitlesstcg.com/cards/?q=is:shiny,sfa&show=all
+
+        Args:
+            - None
+
+        Returns:
+            - None
+        """
+        self.shiny = False
+
     def setSetDetails(self) -> None:
         """
         Set the set details of the card.
@@ -548,6 +565,7 @@ class Card:
             "retreat": self.retreat,
             "rarity": self.rarity,
             "fullart": self.fullart,
+            "shiny": self.shiny,
             "ex": self.ex,
             "set_details": self.setDetails,
             "pack": self.pack,
