@@ -31,10 +31,8 @@ pocket = TGCPocket()
 
 
 end_time = time.perf_counter()
-print(
-    f"Finished downloading cards to {filename}, total time: {
-        formatDuration(end_time - init_time)}"
-)
+print(f"Finished downloading cards to {filename}, total time: {
+        formatDuration(end_time - init_time)}")
 
 with open(filename, "w", encoding="utf-8") as file:
     json.dump(pocket.getCardDataSorted(), file, ensure_ascii=False, indent=4)
