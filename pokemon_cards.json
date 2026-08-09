@@ -148933,7 +148933,7 @@
                 ],
                 "name": "Terminating Tail",
                 "damage": "130",
-                "effect": "Discard Grass[G] Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+                "effect": "Discard a [G] Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
             }
         ],
         "ability": {
@@ -156314,7 +156314,7 @@
                 ],
                 "name": "Terminating Tail",
                 "damage": "130",
-                "effect": "Discard Grass[G] Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+                "effect": "Discard a [G] Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
             }
         ],
         "ability": {
@@ -156985,7 +156985,7 @@
                 ],
                 "name": "Terminating Tail",
                 "damage": "130",
-                "effect": "Discard Grass[G] Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
+                "effect": "Discard a [G] Energy from this Pokémon. Your opponent's Active Pokémon is now Poisoned."
             }
         ],
         "ability": {
