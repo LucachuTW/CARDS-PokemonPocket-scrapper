@@ -122424,6 +122424,11 @@
                 "set": "Crimson Blaze",
                 "id": 87,
                 "rarity": "☆☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 105,
+                "rarity": "☆☆"
             }
         ],
         "artist": "PLANETA Igarashi",
@@ -125183,6 +125188,11 @@
                 "set": "Crimson Blaze",
                 "id": 87,
                 "rarity": "☆☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 105,
+                "rarity": "☆☆"
             }
         ],
         "artist": "PLANETA Igarashi",
@@ -125696,6 +125706,11 @@
             {
                 "set": "Crimson Blaze",
                 "id": 77,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 105,
                 "rarity": "☆☆"
             }
         ],
@@ -128948,6 +128963,11 @@
                 "set": "Fantastical Parade",
                 "id": 166,
                 "rarity": "☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 99,
+                "rarity": "☆"
             }
         ],
         "artist": "Akira Komayama",
@@ -129000,6 +129020,11 @@
             {
                 "set": "Fantastical Parade",
                 "id": 198,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 106,
                 "rarity": "☆☆"
             }
         ],
@@ -129789,6 +129814,11 @@
                 "set": "Fantastical Parade",
                 "id": 199,
                 "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 107,
+                "rarity": "☆☆"
             }
         ],
         "artist": "5ban Graphics",
@@ -129830,7 +129860,13 @@
         "ex": false,
         "set_details": "Fantastical Parade (B2)",
         "pack": "Every pack",
-        "alternate_versions": [],
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 100,
+                "rarity": "☆"
+            }
+        ],
         "artist": "Saya Tsuruta",
         "flavorText": "Sinistea gets into your body when you drink it, and then it steals your vitality from within. It also tastes awful.",
         "probabilities": {
@@ -129870,7 +129906,13 @@
         "ex": false,
         "set_details": "Fantastical Parade (B2)",
         "pack": "Every pack",
-        "alternate_versions": [],
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 101,
+                "rarity": "☆"
+            }
+        ],
         "artist": "Shin Nagasawa",
         "flavorText": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
         "probabilities": {
@@ -131479,7 +131521,13 @@
         "ex": false,
         "set_details": "Fantastical Parade (B2)",
         "pack": "Every pack",
-        "alternate_versions": [],
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 102,
+                "rarity": "☆"
+            }
+        ],
         "artist": "kurumitsu",
         "flavorText": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
         "probabilities": {
@@ -131529,6 +131577,11 @@
             {
                 "set": "Fantastical Parade",
                 "id": 201,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 108,
                 "rarity": "☆☆"
             }
         ],
@@ -132350,7 +132403,13 @@
         "ex": false,
         "set_details": "Fantastical Parade (B2)",
         "pack": "Every pack",
-        "alternate_versions": [],
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 103,
+                "rarity": "☆"
+            }
+        ],
         "artist": "Ayaka Yoshida",
         "flavorText": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
         "probabilities": {
@@ -132391,7 +132450,13 @@
         "ex": false,
         "set_details": "Fantastical Parade (B2)",
         "pack": "Every pack",
-        "alternate_versions": [],
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 104,
+                "rarity": "☆"
+            }
+        ],
         "artist": "Mizue",
         "flavorText": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
         "probabilities": {
@@ -133701,6 +133766,11 @@
                 "set": "Fantastical Parade",
                 "id": 54,
                 "rarity": "◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 99,
+                "rarity": "☆"
             }
         ],
         "artist": "Taiga Kayama",
@@ -134608,6 +134678,11 @@
                 "set": "Fantastical Parade",
                 "id": 198,
                 "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 106,
+                "rarity": "☆☆"
             }
         ],
         "artist": "PLANETA CG Works",
@@ -134716,6 +134791,11 @@
             {
                 "set": "Fantastical Parade",
                 "id": 199,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 107,
                 "rarity": "☆☆"
             }
         ],
@@ -134827,6 +134907,11 @@
             {
                 "set": "Fantastical Parade",
                 "id": 201,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 108,
                 "rarity": "☆☆"
             }
         ],
@@ -135308,6 +135393,11 @@
                 "set": "Fantastical Parade",
                 "id": 184,
                 "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 106,
+                "rarity": "☆☆"
             }
         ],
         "artist": "akagi",
@@ -135359,6 +135449,11 @@
             {
                 "set": "Fantastical Parade",
                 "id": 186,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 107,
                 "rarity": "☆☆"
             }
         ],
@@ -135470,6 +135565,11 @@
             {
                 "set": "Fantastical Parade",
                 "id": 188,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 108,
                 "rarity": "☆☆"
             }
         ],
@@ -164199,6 +164299,11 @@
                 "set": "Everyday Wonders",
                 "id": 70,
                 "rarity": "☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 95,
+                "rarity": "☆"
             }
         ],
         "artist": "Masako Yamashita",
@@ -164242,7 +164347,13 @@
         "ex": false,
         "set_details": "Everyday Wonders (B3b)",
         "pack": "Every pack",
-        "alternate_versions": [],
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 96,
+                "rarity": "☆"
+            }
+        ],
         "artist": "Ken Sugimori",
         "flavorText": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
         "probabilities": {
@@ -164375,7 +164486,13 @@
         "ex": false,
         "set_details": "Everyday Wonders (B3b)",
         "pack": "Every pack",
-        "alternate_versions": [],
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 97,
+                "rarity": "☆"
+            }
+        ],
         "artist": "SATOSHI NAKAI",
         "flavorText": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
         "probabilities": {
@@ -164415,7 +164532,13 @@
         "ex": false,
         "set_details": "Everyday Wonders (B3b)",
         "pack": "Every pack",
-        "alternate_versions": [],
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 98,
+                "rarity": "☆"
+            }
+        ],
         "artist": "Shibuzoh.",
         "flavorText": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
         "probabilities": {
@@ -166833,6 +166956,11 @@
                 "set": "Everyday Wonders",
                 "id": 8,
                 "rarity": "◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 95,
+                "rarity": "☆"
             }
         ],
         "artist": "Teeziro",
@@ -179014,6 +179142,4926 @@
         ],
         "artist": "PLANETA Mamiya",
         "flavorText": "It is called the divine Pokémon. When its entire body brightens slightly, the weather changes.",
+        "probabilities": {},
+        "crafting_cost": null
+    },
+    {
+        "id": 1,
+        "name": "Volbeat",
+        "hp": 80,
+        "type": "Grass",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_001_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Tackle",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Kanako Eo",
+        "flavorText": "It flashes the light on its rear to communicate with other Volbeat. It loves the sweet aroma given off by Illumise.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 2,
+        "name": "Illumise",
+        "hp": 70,
+        "type": "Grass",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_002_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "name": "Ire-Fly",
+                "damage": "30+",
+                "effect": "If Volbeat is in your discard pile, this attack does 60 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Kanako Eo",
+        "flavorText": "It guides Volbeat to draw signs in the night sky. There are scholars who research the meaning of these signs.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 3,
+        "name": "Snivy",
+        "hp": 60,
+        "type": "Grass",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_003_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Leaf Boomerang",
+                "damage": "20x",
+                "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Atsuko Nishida",
+        "flavorText": "It prefers to avoid groups. In its day-to-day life, it dexterously controls its vines to compensate for its short arms.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 4,
+        "name": "Servine",
+        "hp": 80,
+        "type": "Grass",
+        "card_type": "Pokémon - Stage 1 - Evolves from Snivy",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_004_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass"
+                ],
+                "name": "Leaf Step",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Kagemaru Himeno",
+        "flavorText": "Servine’s one weakness is its inflated sense of pride. It takes a while for Servine to be able to cooperate with other Pokémon.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 5,
+        "name": "Serperior",
+        "hp": 100,
+        "type": "Grass",
+        "card_type": "Pokémon - Stage 2 - Evolves from Servine",
+        "evolution_type": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_005_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Flog",
+                "damage": "60+",
+                "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+        ],
+        "ability": {
+            "name": "Regal Bloom",
+            "effect": "This Pokémon gets +30 HP for each  Energy attached to it."
+        },
+        "weakness": "Fire",
+        "retreat": 2,
+        "rarity": "◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Mizue",
+        "flavorText": "An intimidating gaze and majestic appearance have caused this Pokémon to be known as the Lord of the Forest.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.05,
+            "5 card": 0.2
+        },
+        "crafting_cost": 150
+    },
+    {
+        "id": 6,
+        "name": "Team Rocket's Magmar",
+        "hp": 70,
+        "type": "Fire",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_006_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Derisive Roasting",
+                "damage": "10+",
+                "effect": "This attack does 50 more damage for each Special Condition affecting your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 2,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "matazo",
+        "flavorText": "Wavering flames similar to those of the sun appear on the surface of this Pokémon’s body.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 7,
+        "name": "Team Rocket's Moltres ex",
+        "hp": 130,
+        "type": "Fire",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_007_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Heat",
+                "damage": "Charged",
+                "effect": "Flip 3 coins. For each heads, produce a [R] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Netherwing",
+                "damage": "130",
+                "effect": "Discard a [R] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 2,
+        "rarity": "◊◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 79,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 88,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.01666,
+            "5 card": 0.06664
+        },
+        "crafting_cost": 500
+    },
+    {
+        "id": 8,
+        "name": "Team Rocket's Houndour",
+        "hp": 60,
+        "type": "Fire",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_008_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Live Coal",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Mina Nakai",
+        "flavorText": "It uses different kinds of cries for communicating with others of its kind and for pursuing its prey.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 9,
+        "name": "Team Rocket's Houndoom",
+        "hp": 90,
+        "type": "Fire",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Houndour",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_009_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Toxfire Fang",
+                "damage": "20",
+                "effect": "Your opponent's Active Pokémon is now Poisoned and Burned."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "toriyufu",
+        "flavorText": "Upon hearing its eerie howls, other Pokémon get the shivers and head straight back to their nests.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 10,
+        "name": "Fennekin",
+        "hp": 60,
+        "type": "Fire",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_010_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Scratch",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Atsuko Nishida",
+        "flavorText": "Twigs make for Fennekin’s snacks. When it nibbles on twigs, it finds the courage to face strong foes.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 11,
+        "name": "Braixen",
+        "hp": 80,
+        "type": "Fire",
+        "card_type": "Pokémon - Stage 1 - Evolves from Fennekin",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_011_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Psyshot",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 1,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "5ban Graphics",
+        "flavorText": "Braixen’s branch ignites as it’s pulled from the Pokémon’s tail. Braixen then uses the flame to spark powerful attacks.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 12,
+        "name": "Delphox",
+        "hp": 130,
+        "type": "Fire",
+        "card_type": "Pokémon - Stage 2 - Evolves from Braixen",
+        "evolution_type": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_012_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Psychic",
+                "damage": "60+",
+                "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 2,
+        "rarity": "◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 73,
+                "rarity": "☆"
+            }
+        ],
+        "artist": "5ban Graphics",
+        "flavorText": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.05,
+            "5 card": 0.2
+        },
+        "crafting_cost": 150
+    },
+    {
+        "id": 13,
+        "name": "Team Rocket's Lapras",
+        "hp": 90,
+        "type": "Water",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_013_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Ruthless Whirlpool",
+                "damage": "40+",
+                "effect": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 40 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": 1,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Mékayu",
+        "flavorText": "Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 14,
+        "name": "Team Rocket's Articuno ex",
+        "hp": 130,
+        "type": "Water",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_014_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Ice Wing",
+                "damage": "40",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Hailstorm",
+                "damage": "130",
+                "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": 2,
+        "rarity": "◊◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 80,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 89,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.01666,
+            "5 card": 0.06664
+        },
+        "crafting_cost": 500
+    },
+    {
+        "id": 15,
+        "name": "Wingull",
+        "hp": 60,
+        "type": "Water",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_015_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Flap",
+                "damage": "10",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Naoyo Kimura",
+        "flavorText": "It rides upon ocean winds as if it were a glider. In the winter, it hides food around its nest.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 16,
+        "name": "Pelipper",
+        "hp": 110,
+        "type": "Water",
+        "card_type": "Pokémon - Stage 1 - Evolves from Wingull",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_016_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Wing Attack",
+                "damage": "60",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": 2,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Miki Tanaka",
+        "flavorText": "It protects its young in its beak. It bobs on waves, resting on them on days when the waters are calm.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 17,
+        "name": "Hisuian Basculin",
+        "hp": 70,
+        "type": "Water",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_017_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Bite",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Shin Nagasawa",
+        "flavorText": "Its ecology is starkly different from that of other Basculin, so theories that it’s a totally different species have gained traction in recent years.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 18,
+        "name": "Hisuian Basculegion",
+        "hp": 100,
+        "type": "Water",
+        "card_type": "Pokémon - Stage 1 - Evolves from Hisuian Basculin",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_018_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "name": "Soul Counter",
+                "damage": "50+",
+                "effect": "This attack does 50 more damage for each point your opponent got during their last turn."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": 2,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Akira Komayama",
+        "flavorText": "It can jump with incredible power. Parts of its body are tinged red by the rage of its fallen friends.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 19,
+        "name": "Team Rocket's Voltorb",
+        "hp": 60,
+        "type": "Lightning",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_019_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Rolling Attack",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "mingo",
+        "flavorText": "It’s usually found in power plants. Easily mistaken for a Poké Ball, it has zapped many people.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 20,
+        "name": "Team Rocket's Electrode",
+        "hp": 70,
+        "type": "Lightning",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Voltorb",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_020_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Random",
+                "damage": "Spark",
+                "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "Destiny Burst",
+            "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 70 damage to the Attacking Pokémon."
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Krgc",
+        "flavorText": "It explodes in response to even minor stimuli. It is feared, with the nickname of the Bomb Ball.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 21,
+        "name": "Team Rocket's Zapdos ex",
+        "hp": 120,
+        "type": "Lightning",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_021_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Electro Ball",
+                "damage": "40",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Thunderclaw",
+                "damage": "90",
+                "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 81,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 90,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA Mamiya",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.01666,
+            "5 card": 0.06664
+        },
+        "crafting_cost": 500
+    },
+    {
+        "id": 22,
+        "name": "Blitzle",
+        "hp": 60,
+        "type": "Lightning",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_022_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Double Headbutt",
+                "damage": "20x",
+                "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Saya Tsuruta",
+        "flavorText": "This Pokémon prefers places with lots of lightning strikes. It catches lightning with its mane and stores the electricity within its body.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 23,
+        "name": "Zebstrika",
+        "hp": 90,
+        "type": "Lightning",
+        "card_type": "Pokémon - Stage 1 - Evolves from Blitzle",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_023_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Zap Kick",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "0313",
+        "flavorText": "Once the herd hears thunder, it chases after the storm clouds so that the Blitzle in the group can use the lightning to charge up.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 24,
+        "name": "Team Rocket's Pincurchin",
+        "hp": 70,
+        "type": "Lightning",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_024_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning"
+                ],
+                "name": "Poison Jab",
+                "damage": "20",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Ayako Ozaki",
+        "flavorText": "This Pokémon is so timid that even brushing against seaweed will make it discharge electricity in surprise. Its lips do not conduct electricity.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 25,
+        "name": "Team Rocket's Slowpoke",
+        "hp": 80,
+        "type": "Psychic",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_025_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Put a random Item card from your discard pile into your hand."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 2,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "MINAMINAMI Take",
+        "flavorText": "It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 26,
+        "name": "Team Rocket's Slowking ex",
+        "hp": 130,
+        "type": "Psychic",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Slowpoke",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_026_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Hand Kinesis",
+                "damage": "20x",
+                "effect": "This attack does 20 damage for each card in your hand."
+            }
+        ],
+        "ability": {
+            "name": "Evil Inspiration",
+            "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+        },
+        "weakness": "Darkness",
+        "retreat": 3,
+        "rarity": "◊◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 82,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 91,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.01666,
+            "5 card": 0.06664
+        },
+        "crafting_cost": 500
+    },
+    {
+        "id": 27,
+        "name": "Team Rocket's Drowzee",
+        "hp": 60,
+        "type": "Psychic",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_027_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Mumble",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Shinji Kanda",
+        "flavorText": "When it twitches its nose, it can tell where someone is sleeping and what that person is dreaming about.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 28,
+        "name": "Team Rocket's Hypno",
+        "hp": 90,
+        "type": "Psychic",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Drowzee",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_028_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 2,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 74,
+                "rarity": "☆"
+            }
+        ],
+        "artist": "Nisota Niso",
+        "flavorText": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 29,
+        "name": "Team Rocket's Mr. Mime",
+        "hp": 60,
+        "type": "Psychic",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_029_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Slap ush",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "buchi",
+        "flavorText": "It’s known for its top-notch pantomime skills. It protects itself from all sorts of attacks by emitting auras from its fingers to create walls.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 30,
+        "name": "Team Rocket's Mewtwo",
+        "hp": 100,
+        "type": "Psychic",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_030_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Psychic Explosion",
+                "damage": "130",
+                "effect": "This Pokémon also does 70 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 2,
+        "rarity": "◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "danciao",
+        "flavorText": "The research efforts of a certain scientist ultimately resulted in this Pokémon. Its powers are dedicated to battling.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.05,
+            "5 card": 0.2
+        },
+        "crafting_cost": 150
+    },
+    {
+        "id": 31,
+        "name": "Espurr",
+        "hp": 60,
+        "type": "Psychic",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_031_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Beam",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Kagemaru Himeno",
+        "flavorText": "Behind an Espurr’s expressionless face is a frantic struggle to contain psychic power.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 32,
+        "name": "Meowstic",
+        "hp": 90,
+        "type": "Psychic",
+        "card_type": "Pokémon - Stage 1 - Evolves from Espurr",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_032_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Super Psy Bolt",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 1,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Taira Akitsu",
+        "flavorText": "When they sense danger, they exert their psychic power at its maximum output. They have no regard for their opponents.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 33,
+        "name": "Oranguru",
+        "hp": 100,
+        "type": "Psychic",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_033_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Punch and Draw",
+                "damage": "40",
+                "effect": "Draw a card."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 2,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Sekio",
+        "flavorText": "This Pokémon lives quietly in the depths of the forest. The purple, cape-like fur gets longer and longer as Oranguru ages.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 34,
+        "name": "Gimmighoul",
+        "hp": 50,
+        "type": "Psychic",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_034_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Tackle",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "0313",
+        "flavorText": "It lives inside an old treasure chest. Sometimes it gets left in shop corners since no one realizes it’s actually a Pokémon.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 35,
+        "name": "Cubone",
+        "hp": 60,
+        "type": "Fighting",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_035_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting"
+                ],
+                "name": "Bone Beatdown",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Hasuno",
+        "flavorText": "This Pokémon wears the skull of its deceased mother. Sometimes Cubone’s dreams make it cry, but each tear Cubone sheds makes it stronger.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 36,
+        "name": "Marowak",
+        "hp": 110,
+        "type": "Fighting",
+        "card_type": "Pokémon - Stage 1 - Evolves from Cubone",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_036_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Punish",
+                "damage": "50+",
+                "effect": "If your opponent's Active Pokémon has “Team Rocket” in its name, this attack does 70 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": 2,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "kirisAki",
+        "flavorText": "When this Pokémon evolved, the skull of its mother fused to it. Marowak’s temperament also turned vicious at the same time.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 37,
+        "name": "Landorus",
+        "hp": 100,
+        "type": "Fighting",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_037_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Gaia Impact",
+                "damage": "130",
+                "effect": "Discard all Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": 1,
+        "rarity": "◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "NC Empire",
+        "flavorText": "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.05,
+            "5 card": 0.2
+        },
+        "crafting_cost": 150
+    },
+    {
+        "id": 38,
+        "name": "Team Rocket's Ekans",
+        "hp": 60,
+        "type": "Darkness",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_038_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Darkness Fang",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Gemi",
+        "flavorText": "A very common sight in grasslands and such. It flicks its tongue in and out to sense danger in its surroundings.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 39,
+        "name": "Team Rocket's Arbok",
+        "hp": 100,
+        "type": "Darkness",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Ekans",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_039_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Shadow Seeker",
+                "damage": "70+",
+                "effect": "This attack does 10 more damage for each Energy in your opponent's Active Pokémon's Retreat Cost."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 2,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Kazuki Minami",
+        "flavorText": "This Pokémon is very tenacious. Once it targets its prey, it won’t give up the chase, no matter how far the prey goes.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 40,
+        "name": "Team Rocket's Grimer",
+        "hp": 60,
+        "type": "Darkness",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_040_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Sludge",
+                "damage": "20",
+                "effect": "Your opponent's Active Pokémon is now Poisoned."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 2,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Taiga Kasai",
+        "flavorText": "When two of these Pokémon’s bodies are combined together, new poisons are created.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 41,
+        "name": "Team Rocket's Muk",
+        "hp": 120,
+        "type": "Darkness",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Grimer",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_041_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Poison Absorption",
+                "damage": "80",
+                "effect": "If your opponent's Active Pokémon is Poisoned, heal 60 damage from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 3,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Hitoshi Ariga",
+        "flavorText": "It’s so stinky! Muk’s body contains toxic elements, and any plant will wilt when it passes by.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 42,
+        "name": "Team Rocket's Koffing",
+        "hp": 60,
+        "type": "Darkness",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_042_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness"
+                ],
+                "name": "Reverse Thrust",
+                "damage": "10",
+                "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Takeshi Nakamura",
+        "flavorText": "The poisonous gases it contains are a little bit lighter than air. That’s why it’s always slightly airborne.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 43,
+        "name": "Team Rocket's Weezing ex",
+        "hp": 140,
+        "type": "Darkness",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Koffing",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_043_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Confusion Gas",
+                "damage": "60",
+                "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "ability": {
+            "name": "Boiler Smog",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+        },
+        "weakness": "Fighting",
+        "retreat": 2,
+        "rarity": "◊◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 83,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 92,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.01666,
+            "5 card": 0.06664
+        },
+        "crafting_cost": 500
+    },
+    {
+        "id": 44,
+        "name": "Team Rocket's Sneasel",
+        "hp": 60,
+        "type": "Darkness",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_044_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "name": "Group Beatdown",
+                "damage": "30x",
+                "effect": "Flip a coin for each Pokémon you have in play. This attack does 30 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Grass",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Kazumasa Yasukuni",
+        "flavorText": "This is a smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 45,
+        "name": "Togedemaru",
+        "hp": 70,
+        "type": "Metal",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_045_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal"
+                ],
+                "name": "Tumbling Attack",
+                "damage": "20+",
+                "effect": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Megumi Mizutani",
+        "flavorText": "When it’s in trouble, it curls up into a ball, makes its fur spikes stand on end, and then discharges electricity indiscriminately.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 46,
+        "name": "Cufant",
+        "hp": 90,
+        "type": "Metal",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_046_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Rollout",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 3,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "kirisAki",
+        "flavorText": "Cufant can lift loads weighing five tons. In the mornings, it heads into caves with its herd, in search of the ore on which these Pokémon feed.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 47,
+        "name": "Copperajah",
+        "hp": 160,
+        "type": "Metal",
+        "card_type": "Pokémon - Stage 1 - Evolves from Cufant",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_047_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Heavy Impact",
+                "damage": "80",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 4,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Kouki Saitou",
+        "flavorText": "Copperajah are prideful, cantankerous Pokémon. Specimens with vibrant green skin command the respect of others of their kind.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 48,
+        "name": "Team Rocket's Tinkatink",
+        "hp": 60,
+        "type": "Metal",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_048_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal"
+                ],
+                "name": "Lunge Out",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "mingo",
+        "flavorText": "This Pokémon pounds iron scraps together to make a hammer. It will remake the hammer again and again until it’s satisfied with the result.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 49,
+        "name": "Team Rocket's Tinkatuff",
+        "hp": 80,
+        "type": "Metal",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Tinkatink",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_049_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Corkscrew Punch",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 2,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Mousho",
+        "flavorText": "These Pokémon make their homes in piles of scrap metal. They test the strength of each other’s hammers by smashing them together.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 50,
+        "name": "Team Rocket's Tinkaton",
+        "hp": 140,
+        "type": "Metal",
+        "card_type": "Pokémon - Stage 2 - Evolves from Team Rocket’s Tinkatuff",
+        "evolution_type": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_050_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Pile-Driving Hammer",
+                "damage": "80",
+                "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 [C] more, and its Retreat Cost is 2 [C] more."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 2,
+        "rarity": "◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 75,
+                "rarity": "☆"
+            }
+        ],
+        "artist": "Megumi Mizutani",
+        "flavorText": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.05,
+            "5 card": 0.2
+        },
+        "crafting_cost": 150
+    },
+    {
+        "id": 51,
+        "name": "Gholdengo",
+        "hp": 100,
+        "type": "Metal",
+        "card_type": "Pokémon - Stage 1 - Evolves from Gimmighoul",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_051_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Power Gem",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Luxury Coin",
+            "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 109,
+                "rarity": "♛"
+            }
+        ],
+        "artist": "Natsumi Yoshida",
+        "flavorText": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 52,
+        "name": "Gible",
+        "hp": 60,
+        "type": "Unknown Type",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_052_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Take Down",
+                "damage": "30",
+                "effect": "This Pokémon also does 10 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "saino misaki",
+        "flavorText": "It nests in horizontal holes warmed by geothermal heat. Foes who get too close can expect to be pounced on and bitten.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 53,
+        "name": "Gabite",
+        "hp": 80,
+        "type": "Unknown Type",
+        "card_type": "Pokémon - Stage 1 - Evolves from Gible",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_053_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Fighting"
+                ],
+                "name": "Linear",
+                "damage": "Attack",
+                "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": 1,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Tomokazu Komiya",
+        "flavorText": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 54,
+        "name": "Garchomp",
+        "hp": 150,
+        "type": "Unknown Type",
+        "card_type": "Pokémon - Stage 2 - Evolves from Gabite",
+        "evolution_type": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_054_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "name": "Land Crush",
+                "damage": "120",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Mach Stealth",
+            "effect": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+        },
+        "weakness": "none",
+        "retreat": 1,
+        "rarity": "◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Naoki Saito",
+        "flavorText": "The protuberances on its head serve as sensors. It can even detect distant prey.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.05,
+            "5 card": 0.2
+        },
+        "crafting_cost": 150
+    },
+    {
+        "id": 55,
+        "name": "Duraludon",
+        "hp": 100,
+        "type": "Unknown Type",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_055_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Metal"
+                ],
+                "name": "Power Beam",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": 2,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Ryuta Fuse",
+        "flavorText": "Its metal body is durable but prone to retaining heat. It vents this heat from the slits in its tail.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 56,
+        "name": "Archaludon",
+        "hp": 140,
+        "type": "Unknown Type",
+        "card_type": "Pokémon - Stage 1 - Evolves from Duraludon",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_056_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fighting",
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Protect Charge",
+                "damage": "110",
+                "effect": "During your opponent's next turn, this Pokémon takes −30 damage from attacks."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": 3,
+        "rarity": "◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Shiburingaru",
+        "flavorText": "It digs holes on mountains, searching for food. It’s so durable that being caught in a cave-in won’t faze it.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.05,
+            "5 card": 0.2
+        },
+        "crafting_cost": 150
+    },
+    {
+        "id": 57,
+        "name": "Regidrago",
+        "hp": 110,
+        "type": "Unknown Type",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_057_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Grass",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Draconic Slam",
+                "damage": "140-",
+                "effect": "If this Pokémon has damage on it, this attack does −100 damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": 2,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Kouki Saitou",
+        "flavorText": "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 58,
+        "name": "Team Rocket's Rattata",
+        "hp": 40,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_058_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Ambush",
+                "damage": "20+",
+                "effect": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "cochi8i",
+        "flavorText": "With their strong capacity for survival, they can live in dirty places without concern. Left unchecked, their numbers multiply rapidly.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 59,
+        "name": "Team Rocket's Raticate ex",
+        "hp": 120,
+        "type": "Colorless",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Rattata",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_059_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Boost Dash",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Thieving Incisors",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+        },
+        "weakness": "Fighting",
+        "retreat": 0,
+        "rarity": "◊◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 84,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 93,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.01666,
+            "5 card": 0.06664
+        },
+        "crafting_cost": 500
+    },
+    {
+        "id": 60,
+        "name": "Team Rocket's Meowth",
+        "hp": 50,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_060_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Scratch",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Yuriko Akase",
+        "flavorText": "It loves things that sparkle. When it sees a shiny object, the gold coin on its head shines, too.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 61,
+        "name": "Team Rocket's Persian",
+        "hp": 100,
+        "type": "Colorless",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Meowth",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_061_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Dangerous Rogue",
+                "damage": "10+",
+                "effect": "This attack does 40 more damage for each of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "kodama",
+        "flavorText": "It has a vicious temperament. Beware if it raises its tail straight up. This is a signal that it is about to pounce and bite.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 62,
+        "name": "Team Rocket's Kecleon",
+        "hp": 70,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_062_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hit and Hide",
+                "damage": "40",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "Spy Ops",
+            "effect": "Once during your turn, you may look at a random card from your opponent's hand."
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 76,
+                "rarity": "☆"
+            }
+        ],
+        "artist": "Jerky",
+        "flavorText": "It changes color to blend in with its surroundings in order to sneak up on prey. It can’t make its belly pattern disappear, however.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 63,
+        "name": "Happiny",
+        "hp": 30,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_063_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Chubby Cheer",
+                "damage": "1",
+                "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": 0,
+        "rarity": "◊◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 77,
+                "rarity": "☆"
+            }
+        ],
+        "artist": "Eri Yamaki",
+        "flavorText": "It carefully carries a round, white rock that it thinks is an egg. It’s bothered by how curly its hair looks.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.05,
+            "5 card": 0.2
+        },
+        "crafting_cost": 150
+    },
+    {
+        "id": 64,
+        "name": "Furfrou",
+        "hp": 70,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_064_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "ontinuous Steps",
+                "damage": "30x",
+                "effect": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "Fur Coat",
+            "effect": "This Pokémon takes −20 damage from attacks."
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Orca",
+        "flavorText": "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 65,
+        "name": "Lechonk",
+        "hp": 60,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_065_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Headbutt",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 78,
+                "rarity": "☆"
+            }
+        ],
+        "artist": "Mina Nakai",
+        "flavorText": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 66,
+        "name": "Oinkologne",
+        "hp": 110,
+        "type": "Colorless",
+        "card_type": "Pokémon - Stage 1 - Evolves from Lechonk",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_066_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Sitdown Splash",
+                "damage": "40+",
+                "effect": "Flip a coin. If heads, this attack does 60 more damage."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 2,
+        "rarity": "◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Akira Komayama",
+        "flavorText": "This is a meticulous Pokémon that likes to keep things tidy. It shrouds itself in a floral aroma that soothes the Pokémon around it.",
+        "probabilities": {
+            "1-3 card": 1,
+            "4 card": 0,
+            "5 card": 0
+        },
+        "crafting_cost": 35
+    },
+    {
+        "id": 67,
+        "name": "Team Rocket's Thieving Machine",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Item",
+        "evolution_type": "Item",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_067_EN_SM.webp",
+        "attacks": [],
+        "ability": "Put a random Item card, except any Team Rocket's Thieving Machine, from your opponent's discard pile into your hand.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "Toyste Beach",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 68,
+        "name": "Team Rocket's Goo-zooka",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Item",
+        "evolution_type": "Item",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_068_EN_SM.webp",
+        "attacks": [],
+        "ability": "Until the end of your opponent's next turn, your opponent's Active Pokémon's Retreat Cost is 1 more.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 110,
+                "rarity": "♛"
+            }
+        ],
+        "artist": "Toyste Beach",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 69,
+        "name": "Team Rocket's Researcher",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Supporter",
+        "evolution_type": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_069_EN_SM.webp",
+        "attacks": [],
+        "ability": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 85,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "hncl",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 70,
+        "name": "Team Rocket's Master Plan",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Supporter",
+        "evolution_type": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_070_EN_SM.webp",
+        "attacks": [],
+        "ability": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 86,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 94,
+                "rarity": "☆☆☆"
+            }
+        ],
+        "artist": "nagimiso",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 71,
+        "name": "Team Rocket's Boss",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Supporter",
+        "evolution_type": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_071_EN_SM.webp",
+        "attacks": [],
+        "ability": "Look at your opponent's hand and put any number of Basic Pokémon you find there onto your opponent's Bench.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 87,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "Atsushi Furusawa",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 72,
+        "name": "Arcade",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Stadium",
+        "evolution_type": "Stadium",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_072_EN_SM.webp",
+        "attacks": [],
+        "ability": "Once during each player's turn, that player may flip 3 coins. If all of them are heads, that player draws cards until they have 7 cards in their hand.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "◊◊",
+        "fullart": false,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [],
+        "artist": "MARINA Chikazawa",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.9,
+            "5 card": 0.6
+        },
+        "crafting_cost": 70
+    },
+    {
+        "id": 73,
+        "name": "Delphox",
+        "hp": 130,
+        "type": "Fire",
+        "card_type": "Pokémon - Stage 2 - Evolves from Braixen",
+        "evolution_type": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_073_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Psychic",
+                "damage": "60+",
+                "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 2,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 12,
+                "rarity": "◊◊◊"
+            }
+        ],
+        "artist": "Gemi",
+        "flavorText": "It controls flames telekinetically, trapping its foes in a fiery vortex surpassing 5,400 degrees Fahrenheit and burning them to a crisp.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 74,
+        "name": "Team Rocket's Hypno",
+        "hp": 90,
+        "type": "Psychic",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Drowzee",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_074_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 2,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 28,
+                "rarity": "◊◊"
+            }
+        ],
+        "artist": "Tetsu Kayama",
+        "flavorText": "Always holding a pendulum that it swings at a steady rhythm, it causes drowsiness in anyone nearby.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 75,
+        "name": "Team Rocket's Tinkaton",
+        "hp": 140,
+        "type": "Metal",
+        "card_type": "Pokémon - Stage 2 - Evolves from Team Rocket’s Tinkatuff",
+        "evolution_type": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_075_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Pile-Driving Hammer",
+                "damage": "80",
+                "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 [C] more, and its Retreat Cost is 2 [C] more."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 2,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 50,
+                "rarity": "◊◊◊"
+            }
+        ],
+        "artist": "Terada Tera",
+        "flavorText": "The hammer tops 220 pounds, yet it gets swung around easily by Tinkaton as it steals whatever it pleases and carries its plunder back home.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 76,
+        "name": "Team Rocket's Kecleon",
+        "hp": 70,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_076_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Hit and Hide",
+                "damage": "40",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "Spy Ops",
+            "effect": "Once during your turn, you may look at a random card from your opponent's hand."
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 62,
+                "rarity": "◊"
+            }
+        ],
+        "artist": "Saboteri",
+        "flavorText": "It changes color to blend in with its surroundings in order to sneak up on prey. It can’t make its belly pattern disappear, however.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 77,
+        "name": "Happiny",
+        "hp": 30,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_077_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Chubby Cheer",
+                "damage": "1",
+                "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "none",
+        "retreat": 0,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 63,
+                "rarity": "◊◊◊"
+            }
+        ],
+        "artist": "Narumi Sato",
+        "flavorText": "It carefully carries a round, white rock that it thinks is an egg. It’s bothered by how curly its hair looks.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 78,
+        "name": "Lechonk",
+        "hp": 60,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_078_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Headbutt",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 65,
+                "rarity": "◊"
+            }
+        ],
+        "artist": "buchi",
+        "flavorText": "This Pokémon spurns all but the finest of foods. Its body gives off an herblike scent that bug Pokémon detest.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 79,
+        "name": "Team Rocket's Moltres ex",
+        "hp": 130,
+        "type": "Fire",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_079_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Heat",
+                "damage": "Charged",
+                "effect": "Flip 3 coins. For each heads, produce a [R] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Netherwing",
+                "damage": "130",
+                "effect": "Discard a [R] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 2,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 7,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 88,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 80,
+        "name": "Team Rocket's Articuno ex",
+        "hp": 130,
+        "type": "Water",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_080_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Ice Wing",
+                "damage": "40",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Hailstorm",
+                "damage": "130",
+                "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": 2,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 14,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 89,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 81,
+        "name": "Team Rocket's Zapdos ex",
+        "hp": 120,
+        "type": "Lightning",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_081_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Electro Ball",
+                "damage": "40",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Thunderclaw",
+                "damage": "90",
+                "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 21,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 90,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA Mamiya",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 82,
+        "name": "Team Rocket's Slowking ex",
+        "hp": 130,
+        "type": "Psychic",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Slowpoke",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_082_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Hand Kinesis",
+                "damage": "20x",
+                "effect": "This attack does 20 damage for each card in your hand."
+            }
+        ],
+        "ability": {
+            "name": "Evil Inspiration",
+            "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+        },
+        "weakness": "Darkness",
+        "retreat": 3,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 26,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 91,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 83,
+        "name": "Team Rocket's Weezing ex",
+        "hp": 140,
+        "type": "Darkness",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Koffing",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_083_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Confusion Gas",
+                "damage": "60",
+                "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "ability": {
+            "name": "Boiler Smog",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+        },
+        "weakness": "Fighting",
+        "retreat": 2,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 43,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 92,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 84,
+        "name": "Team Rocket's Raticate ex",
+        "hp": 120,
+        "type": "Colorless",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Rattata",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_084_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Boost Dash",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Thieving Incisors",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+        },
+        "weakness": "Fighting",
+        "retreat": 0,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 59,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 93,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 85,
+        "name": "Team Rocket's Researcher",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Supporter",
+        "evolution_type": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_085_EN_SM.webp",
+        "attacks": [],
+        "ability": "Flip a coin until you get tails. For each heads, put a random Pokémon that has “Team Rocket” in its name from your deck into your hand.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 69,
+                "rarity": "◊◊"
+            }
+        ],
+        "artist": "hncl",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 86,
+        "name": "Team Rocket's Master Plan",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Supporter",
+        "evolution_type": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_086_EN_SM.webp",
+        "attacks": [],
+        "ability": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 70,
+                "rarity": "◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 94,
+                "rarity": "☆☆☆"
+            }
+        ],
+        "artist": "nagimiso",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 87,
+        "name": "Team Rocket's Boss",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Supporter",
+        "evolution_type": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_087_EN_SM.webp",
+        "attacks": [],
+        "ability": "Look at your opponent's hand and put any number of Basic Pokémon you find there onto your opponent's Bench.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 71,
+                "rarity": "◊◊"
+            }
+        ],
+        "artist": "Atsushi Furusawa",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 88,
+        "name": "Team Rocket's Moltres ex",
+        "hp": 130,
+        "type": "Fire",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_088_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire"
+                ],
+                "name": "Heat",
+                "damage": "Charged",
+                "effect": "Flip 3 coins. For each heads, produce a [R] Energy from your Energy Zone and attach it to this Pokémon."
+            },
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Netherwing",
+                "damage": "130",
+                "effect": "Discard a [R] Energy from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 2,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 7,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 79,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "REND",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 89,
+        "name": "Team Rocket's Articuno ex",
+        "hp": 130,
+        "type": "Water",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_089_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Ice Wing",
+                "damage": "40",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "name": "Hailstorm",
+                "damage": "130",
+                "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Metal",
+        "retreat": 2,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 14,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 80,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "REND",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 90,
+        "name": "Team Rocket's Zapdos ex",
+        "hp": 120,
+        "type": "Lightning",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_090_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Electro Ball",
+                "damage": "40",
+                "effect": ""
+            },
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Thunderclaw",
+                "damage": "90",
+                "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon that has damage on it."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 21,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 81,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "REND",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 91,
+        "name": "Team Rocket's Slowking ex",
+        "hp": 130,
+        "type": "Psychic",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Slowpoke",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_091_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "name": "Hand Kinesis",
+                "damage": "20x",
+                "effect": "This attack does 20 damage for each card in your hand."
+            }
+        ],
+        "ability": {
+            "name": "Evil Inspiration",
+            "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may draw a card."
+        },
+        "weakness": "Darkness",
+        "retreat": 3,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 26,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 82,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "Takeshi Nakamura",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 92,
+        "name": "Team Rocket's Weezing ex",
+        "hp": 140,
+        "type": "Darkness",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Koffing",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_092_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "name": "Confusion Gas",
+                "damage": "60",
+                "effect": "Your opponent's Active Pokémon is now Confused."
+            }
+        ],
+        "ability": {
+            "name": "Boiler Smog",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may make your opponent's Active Pokémon Poisoned and Burned."
+        },
+        "weakness": "Fighting",
+        "retreat": 2,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 43,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 83,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "Shimaris Yukichi",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 93,
+        "name": "Team Rocket's Raticate ex",
+        "hp": 120,
+        "type": "Colorless",
+        "card_type": "Pokémon - Stage 1 - Evolves from Team Rocket’s Rattata",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_093_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Boost Dash",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Thieving Incisors",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may move a random Energy from your opponent's Active Pokémon to this Pokémon."
+        },
+        "weakness": "Fighting",
+        "retreat": 0,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 59,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 84,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "Krgc",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 94,
+        "name": "Team Rocket's Master Plan",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Supporter",
+        "evolution_type": "Supporter",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_094_EN_SM.webp",
+        "attacks": [],
+        "ability": "Your opponent's Active Pokémon is now Confused. Flip a coin. If tails, your Active Pokémon is now also Confused.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "☆☆☆",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 70,
+                "rarity": "◊◊"
+            },
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 86,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "Yukihiro Tada",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.00222,
+            "5 card": 0.00888
+        },
+        "crafting_cost": 1500
+    },
+    {
+        "id": 95,
+        "name": "Vulpix",
+        "hp": 60,
+        "type": "Fire",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_095_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Hold",
+                "damage": "Still",
+                "effect": "Heal 20 damage from this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Everyday Wonders",
+                "id": 8,
+                "rarity": "◊"
+            },
+            {
+                "set": "Everyday Wonders",
+                "id": 70,
+                "rarity": "☆"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "flavorText": "As its body grows larger, its six warm tails become more beautiful, with a more luxurious coat of fur.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 96,
+        "name": "Ninetales",
+        "hp": 100,
+        "type": "Fire",
+        "card_type": "Pokémon - Stage 1 - Evolves from Vulpix",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_096_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Ember Dance",
+                "damage": "20x",
+                "effect": "Flip 9 coins. This attack does 20 damage for each heads."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Everyday Wonders",
+                "id": 9,
+                "rarity": "◊◊"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "flavorText": "It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 97,
+        "name": "Goldeen",
+        "hp": 50,
+        "type": "Water",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_097_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Horn Attack",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Everyday Wonders",
+                "id": 12,
+                "rarity": "◊"
+            }
+        ],
+        "artist": "Taiga Kasai",
+        "flavorText": "Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 98,
+        "name": "Seaking",
+        "hp": 90,
+        "type": "Water",
+        "card_type": "Pokémon - Stage 1 - Evolves from Goldeen",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_098_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Water"
+                ],
+                "name": "Aqua Bullet",
+                "damage": "30",
+                "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Everyday Wonders",
+                "id": 13,
+                "rarity": "◊◊"
+            }
+        ],
+        "artist": "Taiga Kasai",
+        "flavorText": "Using its horn, it bores holes in riverbed boulders, making nests to prevent its eggs from washing away.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 99,
+        "name": "Toxel",
+        "hp": 60,
+        "type": "Lightning",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_099_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Static Shock",
+                "damage": "30",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Fantastical Parade",
+                "id": 54,
+                "rarity": "◊"
+            },
+            {
+                "set": "Fantastical Parade",
+                "id": 166,
+                "rarity": "☆"
+            }
+        ],
+        "artist": "MAHOU",
+        "flavorText": "This selfish, attention-seeking Pokémon stores poison and electricity in two different sacs inside its body.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 100,
+        "name": "Sinistea",
+        "hp": 30,
+        "type": "Psychic",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_100_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Unknown",
+                "damage": "0",
+                "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Darkness",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Fantastical Parade",
+                "id": 74,
+                "rarity": "◊"
+            }
+        ],
+        "artist": "MAHOU",
+        "flavorText": "Sinistea gets into your body when you drink it, and then it steals your vitality from within. It also tastes awful.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 101,
+        "name": "Polteageist",
+        "hp": 70,
+        "type": "Psychic",
+        "card_type": "Pokémon - Stage 1 - Evolves from Sinistea",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_101_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic"
+                ],
+                "name": "Spooky Shot",
+                "damage": "40",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Refreshing Tea",
+            "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card."
+        },
+        "weakness": "Darkness",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Fantastical Parade",
+                "id": 75,
+                "rarity": "◊◊"
+            }
+        ],
+        "artist": "MAHOU",
+        "flavorText": "These Pokémon multiply by creeping into teapots and pouring themselves into leftover tea.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 102,
+        "name": "Mawile",
+        "hp": 80,
+        "type": "Metal",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_102_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Cavernous Chomp",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Fantastical Parade",
+                "id": 112,
+                "rarity": "◊"
+            }
+        ],
+        "artist": "Souichirou Gunjima",
+        "flavorText": "It chomps with its gaping mouth. Its huge jaws are actually steel horns that have been transformed.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 103,
+        "name": "Taillow",
+        "hp": 60,
+        "type": "Colorless",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_103_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless"
+                ],
+                "name": "Peck",
+                "damage": "20",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Lightning",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Fantastical Parade",
+                "id": 132,
+                "rarity": "◊"
+            }
+        ],
+        "artist": "whomor Inc.",
+        "flavorText": "It dislikes cold seasons. They migrate to other lands in search of warmth, flying over 180 miles a day.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 104,
+        "name": "Swellow",
+        "hp": 80,
+        "type": "Colorless",
+        "card_type": "Pokémon - Stage 1 - Evolves from Taillow",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_104_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Wing Attack",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Repelling Wind",
+            "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+        },
+        "weakness": "Lightning",
+        "retreat": 1,
+        "rarity": "☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Fantastical Parade",
+                "id": 133,
+                "rarity": "◊◊◊"
+            }
+        ],
+        "artist": "whomor Inc.",
+        "flavorText": "It dives at a steep angle as soon as it spots its prey. It catches its prey with sharp claws.",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.02572,
+            "5 card": 0.10288
+        },
+        "crafting_cost": 400
+    },
+    {
+        "id": 105,
+        "name": "Mega Charizard Y ex",
+        "hp": 220,
+        "type": "Fire",
+        "card_type": "Pokémon - Stage 2 - Evolves from Charmeleon",
+        "evolution_type": "Stage 2",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_105_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "name": "Crimson Dive",
+                "damage": "250",
+                "effect": "This Pokémon also does 50 damage to itself."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Water",
+        "retreat": 2,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Crimson Blaze",
+                "id": 14,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Crimson Blaze",
+                "id": 77,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Crimson Blaze",
+                "id": 87,
+                "rarity": "☆☆☆"
+            }
+        ],
+        "artist": "PLANETA Igarashi",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 106,
+        "name": "Toxtricity ex",
+        "hp": 150,
+        "type": "Lightning",
+        "card_type": "Pokémon - Stage 1 - Evolves from Toxel",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_106_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "name": "Damaging Spark",
+                "damage": "90",
+                "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fighting",
+        "retreat": 2,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Fantastical Parade",
+                "id": 55,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Fantastical Parade",
+                "id": 184,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Fantastical Parade",
+                "id": 198,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 107,
+        "name": "Mimikyu ex",
+        "hp": 120,
+        "type": "Psychic",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_107_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "name": "Claw Slash",
+                "damage": "70",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Disguise",
+            "effect": "When this Pokémon is first damaged by an attack after coming into play, prevent that damage."
+        },
+        "weakness": "Darkness",
+        "retreat": 2,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Fantastical Parade",
+                "id": 73,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Fantastical Parade",
+                "id": 186,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Fantastical Parade",
+                "id": 199,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 108,
+        "name": "Mega Mawile ex",
+        "hp": 170,
+        "type": "Metal",
+        "card_type": "Pokémon - Basic",
+        "evolution_type": "Basic",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_108_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "name": "Heat-Up Crunch",
+                "damage": "60",
+                "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
+            }
+        ],
+        "ability": {
+            "name": "No ability",
+            "effect": "N/A"
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "☆☆",
+        "fullart": true,
+        "shiny": true,
+        "ex": true,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Fantastical Parade",
+                "id": 113,
+                "rarity": "◊◊◊◊"
+            },
+            {
+                "set": "Fantastical Parade",
+                "id": 188,
+                "rarity": "☆☆"
+            },
+            {
+                "set": "Fantastical Parade",
+                "id": 201,
+                "rarity": "☆☆"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "",
+        "probabilities": {
+            "1-3 card": 0,
+            "4 card": 0.005,
+            "5 card": 0.02
+        },
+        "crafting_cost": 1250
+    },
+    {
+        "id": 109,
+        "name": "Gholdengo",
+        "hp": 100,
+        "type": "Metal",
+        "card_type": "Pokémon - Stage 1 - Evolves from Gimmighoul",
+        "evolution_type": "Stage 1",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_109_EN_SM.webp",
+        "attacks": [
+            {
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "name": "Power Gem",
+                "damage": "50",
+                "effect": ""
+            }
+        ],
+        "ability": {
+            "name": "Luxury Coin",
+            "effect": "Once during your turn, when you flip any coins for an effect of your Trainer cards, you may ignore all results of those coin flips and begin flipping those coins again. You can't use more than 1 Luxury Coin Ability each turn."
+        },
+        "weakness": "Fire",
+        "retreat": 1,
+        "rarity": "Crown Rare",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 51,
+                "rarity": "◊◊"
+            }
+        ],
+        "artist": "PLANETA CG Works",
+        "flavorText": "It has a sturdy body made up of stacked coins. Gholdengo overwhelms its enemies by firing coin after coin at them in quick succession.",
+        "probabilities": {},
+        "crafting_cost": null
+    },
+    {
+        "id": 110,
+        "name": "Team Rocket's Goo-zooka",
+        "hp": null,
+        "type": "Unknown Type",
+        "card_type": "Trainer - Item",
+        "evolution_type": "Item",
+        "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B4a/B4a_110_EN_SM.webp",
+        "attacks": [],
+        "ability": "Until the end of your opponent's next turn, your opponent's Active Pokémon's Retreat Cost is 1 more.",
+        "weakness": "N/A",
+        "retreat": "N/A",
+        "rarity": "Crown Rare",
+        "fullart": true,
+        "shiny": false,
+        "ex": false,
+        "set_details": "Team Rocket's Ambition (B4a)",
+        "pack": "Every pack",
+        "alternate_versions": [
+            {
+                "set": "Team Rocket's Ambition",
+                "id": 68,
+                "rarity": "◊◊"
+            }
+        ],
+        "artist": "Toyste Beach",
+        "flavorText": "",
         "probabilities": {},
         "crafting_cost": null
     }
